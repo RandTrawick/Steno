@@ -1,3 +1,3 @@
  * briefs for git command etc...
 
- [My cheat Sheet](MycheatSheet.md)
+ * [My cheat Sheet](MycheatSheet.md)
