@@ -1,13 +1,18 @@
 # My cheat sheet
 
- *  TK-FPS (delete space)
- *  AFPS (add space)
- *  KA*PD Capitalize Last Word
- * TP-FGS information
- * KPOEPBTS components
- * STPWEB again
- * [ PWR-BT
- * ] PWR*BT
+ * (delete space): TK-FPS:
+ * (add space): AFPS
+ * Capitalize Last Word: KA*PD
+ * information: TP-FGS
+ * components: KPOEPBTS
+ * again
+ * [: PWR-BT
+ * ]: PWR*BT
+ * don't have: STKROEPBT
+ * 's: AES
+ * ; : TH-FL
+
+
 
 
 
