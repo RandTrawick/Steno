@@ -5,16 +5,12 @@
  * Capitalize Last Word: KA*PD
  * information: TP-FGS
  * components: KPOEPBTS
- * again
+ * again: SKPWEPB      
  * [: PWR-BT
  * ]: PWR*BT
  * don't have: STKROEPBT
  * 's: AES
  * ; : TH-FL
-
-
-
-
 
 ref:  
 https://github.com/openstenoproject/plover/wiki/Dictionary-Format
