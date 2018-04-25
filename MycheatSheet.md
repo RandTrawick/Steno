@@ -11,6 +11,7 @@
  * don't have: STKROEPBT
  * 's: AES
  * ; : TH-FL
+ * basically: PHRAEUFBG
 
 ref:  
 https://github.com/openstenoproject/plover/wiki/Dictionary-Format
