@@ -12,6 +12,9 @@
  * 's: AES
  * ; : TH-FL
  * basically: PHRAEUFBG
+ * /: OEU
+ * I can: AOEUBG
+ 
 
 ref:  
 https://github.com/openstenoproject/plover/wiki/Dictionary-Format
