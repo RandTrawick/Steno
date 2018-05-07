@@ -14,6 +14,8 @@
  * I can: AOEUBG
  * we could: WEBGD
  * visualization: SREUFL/SAEUGS
+ * to do that: TKO/HA/THA
+ * to do it: TKO/TK/T
 
 
 ref:  
