@@ -17,7 +17,7 @@
  * I don't have: KWROF
  * to do that: TKO/HA/THA
  * to do it: TKO/TK/T
-
+ * maybe: PAEUB
 
 
 ref:  
