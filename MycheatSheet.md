@@ -1,6 +1,5 @@
 # My cheat sheet
 
- * (delete space): TK-FPS:
  * (add space): AFPS
  * Capitalize Last Word: KA*PD
  * information: TP-FGS   
@@ -17,7 +16,9 @@
  * I don't have: KWROF
  * to do that: TKO/HA/THA
  * to do it: TKO/TK/T
- * maybe: PAEUB
+ * if you have: TPUF
+ * item: AOEUPLT
+ * ': -PBT
 
 
 ref:  
