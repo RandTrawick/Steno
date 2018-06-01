@@ -16,11 +16,13 @@
  * if you have: TPUF
  * item: AOEUPLT
  * ': -PBT
- * K-BGS: {MODE:CAMEL}
- * KHRAO*ER: {MODE:RESET}
- * KWROPB: {^ion}
- * AEUGS: {^ation}
- * EUPLT: implement
+ * {MODE:CAMEL}: K-BGS
+ * {MODE:RESET}: KHRAO*ER
+ * {^ion}: KWROPB
+ * {^ation}: AEUGS
+ * implement:EUPLT
+ * yesterday: KWRED
+ * description: SKWRUPBG
    
 
 
