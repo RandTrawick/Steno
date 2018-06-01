@@ -17,6 +17,7 @@
  * item: AOEUPLT
  * ': -PBT
  * K-BGS: {MODE:CAMEL}
+ * KHRAO*ER: {MODE:RESET}
  * KWROPB: {^ion}
  * AEUGS: {^ation}
  * EUPLT: implement
