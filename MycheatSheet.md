@@ -2,11 +2,8 @@
 
  * (add space): AFPS
  * Capitalize Last Word: KA*PD
- * information: TP-FGS   
- * [: PWR-BT
- * ]: PWR*BT
+ * information: TP-FGS
  * don't have: STKROEPBT
- * 's: AES
  * ; : TH-FL
  * basically: PHRAEUFBG
  * /: OEU
@@ -19,6 +16,11 @@
  * if you have: TPUF
  * item: AOEUPLT
  * ': -PBT
+ * K-BGS: {MODE:CAMEL}
+ * KWROPB: {^ion}
+ * AEUGS: {^ation}
+ * EUPLT: implement
+   
 
 
 ref:  
