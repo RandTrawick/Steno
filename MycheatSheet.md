@@ -20,10 +20,12 @@
  * {MODE:RESET}: KHRAO*ER
  * {^ion}: KWROPB
  * {^ation}: AEUGS
- * implement:EUPLT
+ * implement: EUPLT
  * yesterday: KWRED
  * description: SKWRUPBG
-   
+ * syn: S*EUPB
+ * no space, no caps: TK-LS
+ * no space, caps: KPA*
 
 
 ref:  
