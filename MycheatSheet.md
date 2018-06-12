@@ -26,8 +26,8 @@
  * syn: S*EUPB
  * no space, no caps: TK-LS
  * no space, caps: KPA*
- * " (leading) "KW-GS": "{~|\"^}"
- * " (ending) "KR-GS": "{^~|\"}"
+ * " (leading) "KW-GS"
+ * " (ending) "KR-GS"
 
 
 ref:  
