@@ -18,8 +18,8 @@
  * ': -PBT
  * {MODE:CAMEL}: K-BGS
  * {MODE:RESET}: KHRAO*ER
- * {^ion}: KWROPB
- * {^ation}: AEUGS
+ * ^ion: KWROPB
+ * ^ation: AEUGS
  * implement: EUPLT
  * yesterday: KWRED
  * description: SKWRUPBG
