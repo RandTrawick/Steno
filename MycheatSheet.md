@@ -28,6 +28,7 @@
  * no space, caps: KPA*
  * " (leading) "KW-GS"
  * " (ending) "KR-GS"
+ * ages: AEUPBLGS
 
 
 ref:  
