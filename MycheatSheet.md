@@ -29,6 +29,7 @@
  * " (leading) "KW-GS"
  * " (ending) "KR-GS"
  * ages: AEUPBLGS
+ * responsible: SPOP
 
 
 ref:  
