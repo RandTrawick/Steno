@@ -15,7 +15,6 @@
  * to do it: TKO/TK/T
  * if you have: TPUF
  * item: AOEUPLT
- * ': -PBT
  * {MODE:CAMEL}: K-BGS
  * {MODE:RESET}: KHRAO*ER
  * ^ion: KWROPB
@@ -24,8 +23,6 @@
  * yesterday: KWRED
  * description: SKWRUPBG
  * syn: S*EUPB
- * no space, no caps: TK-LS
- * no space, caps: KPA*
  * " (leading) "KW-GS"
  * " (ending) "KR-GS"
  * ages: AEUPBLGS
