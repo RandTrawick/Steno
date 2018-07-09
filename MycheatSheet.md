@@ -30,6 +30,7 @@
  * " (ending) "KR-GS"
  * ages: AEUPBLGS
  * responsible: SPOP
+ * except: KPEPT
 
 
 ref:  
