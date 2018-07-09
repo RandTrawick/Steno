@@ -28,8 +28,8 @@
  * no space, caps: KPA*
  * " (leading) "KW-GS"
  * " (ending) "KR-GS"
- * " except KPEPT
-
+ * ages: AEUPBLGS
+ * responsible: SPOP
 
 
 ref:  
