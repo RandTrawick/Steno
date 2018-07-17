@@ -2,7 +2,6 @@
 
  * (add space): AFPS
  * Capitalize Last Word: KA*PD
- * information: TP-FGS
  * don't have: STKROEPBT
  * ; : TH-FL
  * basically: PHRAEUFBG
@@ -19,13 +18,11 @@
  * {MODE:RESET}: KHRAO*ER
  * ^ion: KWROPB
  * ^ation: AEUGS
- * implement: EUPLT
  * yesterday: KWRED
  * description: SKWRUPBG
  * syn: S*EUPB
  * " (leading) "KW-GS"
  * " (ending) "KR-GS"
- * ages: AEUPBLGS
  * responsible: SPOP
  * except: KPEPT
 
