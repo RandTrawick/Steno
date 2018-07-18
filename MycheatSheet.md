@@ -25,6 +25,8 @@
  * " (ending) "KR-GS"
  * responsible: SPOP
  * except: KPEPT
+ * permission: PERPLGS
+ * git checkout: git KHOUT
 
 
 ref:  
