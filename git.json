@@ -1,4 +1,5 @@
 {
+"": "",
 "PWEUT/PWUBGT": "Bitbucket",
 "RAED/PHE": "readme",
 "TKPW*UL": "git pull",
@@ -20,7 +21,7 @@
 "TKPWEUT/PWRAFRPB/HR*EUS": "{>}git branch --list{#Return}",
 "TKPWEUT/RE/PWAEUS": "{>}git rebase",
 "TKPWEUT/RE/PWAEUS/T-PB": "{>}git rebase --continue",
-"TKPWEUT/STA*TS": "{>}git status{#Return}",
+"TKPWEUT/ST*TS": "{>}git status{#Return}",
 "TKPWEUT/STARB": "{>}git stash",
 "TKPWEUT/STARB/HR*EUS": "git stash list --date=local",
 "TKPWEUT/TKEUF": "{>}git diff",
@@ -28,5 +29,6 @@
 "TKPWEUT/TPEFP/KR*R": "git fetch origin refs/changes/2/3/1",
 "TKPWHEUT": "{>}git commit",
 "TKPWHROG": "git log",
-"TKPWHUB": "GitHub"
+"TKPWHUB": "GitHub",
+"git/branch/--list": "hads'll"
 }

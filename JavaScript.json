@@ -1,7 +1,12 @@
 {
+"SKWR*S/K-FL": "{^}console.log();{#Left Left}",
+"SKWR*S/K-FPL": "{^}console.log('d');{#Return}{^}console.log(d);{#Up Left Shift_L(Left)}",
+"SKWR*S/KW*ER": "{^}$(''){#Left Left}",
 "SKWR*S/PWRABG": "({})",
+"SKWR*S/SHREBG/TOR": "{^} var container = document.querySelector('');{#Left Left Left}",
+"SKWR*S/STREUPBG": "{^}console.log(JSON.stringify());{#Left Left Left}",
 "SKWR*S/TP": "{^}if (condition) \\{{#Left Left Left Shift_L(Alt_L(Left))}",
-"SKWR*S/TPHU": "{^} const naMe = () => {}\\{{#Left Left Left Left Left Left Left Left Left Left Shift_L(Alt_L(Left Left))}",
+"SKWR*S/TPHU": "{^}const naMe = () => {}\\{{#Left Left Left Left Left Left Left Left Left Left Shift_L(Alt_L(Left Left))}",
 "SKWR-B": "{#Shift_L(Down)}",
 "SKWR-BG": "{#Control_L(Shift_L(Right))}",
 "SKWR-FBL": "{#Shift_L(Page_Down)}",
@@ -12,9 +17,6 @@
 "SKWR-RB": "{#Control_L(Shift_L(Left))}",
 "SKWR-RBG": "{#Shift_L(End)}",
 "SKWR-RBLT": "{&dʒ}",
-"SKWR*S/SHREBG/TOR": "{^} var container = document.querySelector('');{#Left Left Left}",
 "SKWR-RPG": "{#Shift_L(Page_Up)}",
-"SKWR-S/KPHEPBT": "/**{#Return * Return * / Up}{-|}",
-"SKWR*S/KW*ER": "{^}$(''){#Left Left}",
-"TO*B": "{^}.toBe({^}"
+"SKWR-S/KPHEPBT": "/**{#Return * Return * / Up}{-|}"
 }
