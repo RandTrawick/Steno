@@ -26,8 +26,8 @@
  * responsible: SPOP
  * except: KPEPT
  * permission: PERPLGS
- * git checkout: git KHOUT
-
+ * git checkout: TKPWEUT/KHOUT
+ * responsive: SPO*F
 
 ref:  
 https://github.com/openstenoproject/plover/wiki/Dictionary-Format
