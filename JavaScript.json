@@ -1,4 +1,5 @@
 {
+"SKWR*S": "{}js",
 "SKWR*S/K-FL": "{^}console.log();{#Left Left}",
 "SKWR*S/K-FPL": "{^}console.log('d');{#Return}{^}console.log(d);{#Up Left Shift_L(Left)}",
 "SKWR*S/KW*ER": "{^}$(''){#Left Left}",
