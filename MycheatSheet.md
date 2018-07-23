@@ -28,6 +28,7 @@
  * permission: PERPLGS
  * git checkout: TKPWEUT/KHOUT
  * responsive: SPO*F
+ * media: PHO*EUD
 
 ref:  
 https://github.com/openstenoproject/plover/wiki/Dictionary-Format
