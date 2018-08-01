@@ -30,5 +30,7 @@
  * responsive: SPO*F
  * media: PHO*EUD
 
+[Phrases](Phrases.md)  
+
 ref:  
 https://github.com/openstenoproject/plover/wiki/Dictionary-Format
