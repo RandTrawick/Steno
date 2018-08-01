@@ -1,3 +1,9 @@
 # phrases so that I can practice
 
- *  part of the: PAFRT
+ * part of the: PAFRT
+ * if you want: TPUPT
+ * I don't have: KWROF
+ * to do that: TKO/HA/THA
+ * to do it: TKO/TK/T
+ * if you have: TPUF
+ * use it: TAOUS
