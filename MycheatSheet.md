@@ -15,7 +15,7 @@
  * ^ion: KWROPB
  * ^ation: AEUGS
  * yesterday: KWRED
- * description: SKWRUPBG
+ * description: SKREUPGS
  * syn: S*EUPB
  * " (leading) "KW-GS"
  * " (ending) "KR-GS"
