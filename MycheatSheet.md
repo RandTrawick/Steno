@@ -1,31 +1,32 @@
 # My cheat sheet
 
+ * " (ending) "KR-GS"
+ * " (leading) "KW-GS"
  * (add space): AFPS
- * Capitalize Last Word: KA*PD
- * don't have: STKROEPBT
- * ; : TH-FL
- * basically: PHRAEUFBG
  * /: OEU
- * I can: AOEUBG
- * we could: WEBGD
- * visualization: SREUFL/SAEUGS
- * item: AOEUPLT
+ * ; : TH-FL
+ * ^ation: AEUGS
+ * ^ion: KWROPB
  * {MODE:CAMEL}: K-BGS
  * {MODE:RESET}: KHRAO*ER
- * ^ion: KWROPB
- * ^ation: AEUGS
- * yesterday: KWRED
+ * basically: PHRAEUFBG
+ * Capitalize Last Word: KA*PD
  * description: SKREUPGS
- * syn: S*EUPB
- * " (leading) "KW-GS"
- * " (ending) "KR-GS"
- * responsible: SPOP
+ * don't have: STKROEPBT
  * except: KPEPT
- * permission: PERPLGS
  * git checkout: TKPWEUT/KHOUT
- * responsive: SPO*F
+ * I can: AOEUBG
+ * item: AOEUPLT
  * media: PHO*EUD
  * metadata: PHOEUT/TKOEUT
+ * navigation: TPHAFGS
+ * permission: PERPLGS
+ * responsible: SPOP
+ * responsive: SPO*F
+ * syn: S*EUPB
+ * visualization: SREUFL/SAEUGS
+ * we could: WEBGD
+ * yesterday: KWRED
 
 
 [Phrases](Phrases.md)  
