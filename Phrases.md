@@ -9,3 +9,5 @@
  * use it: TAOUS
  * for the: TP-RT
  * except that: TKPHAEPT
+ * you are not: URPBT
+ * are not: R-PBLT
