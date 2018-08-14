@@ -8,3 +8,4 @@
  * if you have: TPUF
  * use it: TAOUS
  * for the: TP-RT
+ * except that: TKPHAEPT
