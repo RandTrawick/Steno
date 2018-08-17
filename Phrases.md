@@ -11,3 +11,4 @@
  * except that: TKPHAEPT
  * you are not: URPBT
  * are not: R-PBLT
+ * they were: THERP
