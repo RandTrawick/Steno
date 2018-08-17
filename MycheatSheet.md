@@ -12,6 +12,7 @@
  * basically: PHRAEUFBG
  * Capitalize Last Word: KA*PD
  * continue: T-PB
+ * completely: KPHRELT
  * description: SKREUPGS
  * don't have: STKROEPBT
  * except: KPEPT
