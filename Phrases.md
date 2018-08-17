@@ -13,3 +13,4 @@
  * are not: R-PBLT
  * they were: THERP
  * other side: O*ERDZ
+ * and the: SKP-T

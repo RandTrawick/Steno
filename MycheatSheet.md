@@ -11,6 +11,7 @@
  * {MODE:RESET}: KHRAO*ER
  * basically: PHRAEUFBG
  * Capitalize Last Word: KA*PD
+ * continue: T-PB
  * description: SKREUPGS
  * don't have: STKROEPBT
  * except: KPEPT
