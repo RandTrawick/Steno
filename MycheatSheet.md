@@ -15,12 +15,12 @@
  * completely: KPHRELT
  * description: SKREUPGS
  * don't have: STKROEPBT
+ * editing: EGTD
  * except: KPEPT
  * git checkout: TKPWEUT/KHOUT
- * I can: AOEUBG
+ * inform: TPH-F
  * item: AOEUPLT
  * media: PHO*EUD
- * metadata: PHOEUT/TKOEUT
  * navigation: TPHAFGS
  * permission: PERPLGS
  * responsible: SPOP
