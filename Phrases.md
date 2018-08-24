@@ -15,3 +15,7 @@
  * other side: O*ERDZ
  * and the: SKP-T
  * to you: TWU
+ * more than: PH-RPB
+ * I did: TK*EUD
+ * don't have: STKROEPBT
+ * when you: WHU
