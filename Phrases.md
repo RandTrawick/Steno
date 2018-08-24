@@ -1,17 +1,18 @@
 # phrases so that I can practice
 
- * part of the: PAFRT
- * if you want: TPUPT
- * I don't have: KWROF
- * to do that: TKO/HA/THA
- * to do it: TKO/TK/T
- * if you have: TPUF
- * use it: TAOUS
- * for the: TP-RT
- * except that: TKPHAEPT
- * you are not: URPBT
- * are not: R-PBLT
- * they were: THERP
- * other side: O*ERDZ
  * and the: SKP-T
+ * and you: SKPU
+ * are not: R-PBLT
+ * except that: TKPHAEPT
+ * for the: TP-RT
+ * I don't have: KWROF
+ * if you have: TPUF
+ * if you want: TPUPT
+ * other side: O*ERDZ
+ * part of the: PAFRT
+ * they were: THERP
+ * to do it: TKO/TK/T
+ * to do that: TKO/HA/THA
  * to you: TWU
+ * use it: TAOUS
+ * you are not: URPBT
