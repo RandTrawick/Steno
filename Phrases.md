@@ -10,6 +10,7 @@
  * I don't have: KWROF
  * if you have: TPUF
  * if you want: TPUPT
+ * in a: TPHA*EU
  * more than: PH-RPB
  * other side: O * ERDZ
  * part of the: PAFRT
