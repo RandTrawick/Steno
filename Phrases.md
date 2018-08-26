@@ -12,9 +12,11 @@
  * if you have: TPUF
  * if you want: TPUPT
  * in a: TPHA*EU
+ * is in: STPH
  * more than: PH-RPB
  * other side: O * ERDZ
  * part of the: PAFRT
+ * see it: STAOE
  * they were: THERP
  * to do it: TKO/TK/T
  * to do that: TKO/HA/THA
