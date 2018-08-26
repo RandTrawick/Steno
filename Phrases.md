@@ -1,5 +1,6 @@
 # phrases so that I can practice
 
+ * and he can: SKPEBG
  * and the: SKP-T
  * and you: SKPU
  * are not: R-PBLT
