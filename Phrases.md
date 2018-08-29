@@ -7,6 +7,7 @@
  * don't have: STKROEPBT
  * except that: TKPHAEPT
  * for the: TP-RT
+ * I can't go: KWRAG
  * I did: TK * EUD
  * I don't have: KWROF
  * if you have: TPUF
@@ -24,4 +25,8 @@
  * use it: TAOUS
  * when you: WHU
  * you are not: URPBT
+ * you are the: URT
+
+
+
 
