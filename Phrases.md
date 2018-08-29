@@ -4,6 +4,7 @@
  * and the: SKP-T
  * and you: SKPU
  * are not: R-PBLT
+ * could have: KOUF
  * don't have: STKROEPBT
  * except that: TKPHAEPT
  * for the: TP-RT
@@ -24,6 +25,7 @@
  * to you: TWU
  * use it: TAOUS
  * when you: WHU
+ * which was: WEUFS
  * you are not: URPBT
  * you are the: URT
 
