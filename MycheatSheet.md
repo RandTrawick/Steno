@@ -9,6 +9,7 @@
  * ^ion: KWROPB
  * {MODE:CAMEL}: K-BGS
  * {MODE:RESET}: KHRAO*ER
+ * actually: TAOULT
  * basically: PHRAEUFBG
  * Capitalize Last Word: KA*PD
  * continue: T-PB

@@ -11,6 +11,7 @@
  * I can't go: KWRAG
  * I did: TK * EUD
  * I don't have: KWROF
+ * if I'm: TPAOEUPL
  * if you have: TPUF
  * if you want: TPUPT
  * in a: TPHA*EU
