@@ -22,13 +22,14 @@
  * they were: THERP
  * to do it: TKO/TK/T
  * to do that: TKO/HA/THA
+ * to the best of my knowledge: TEUPBLG
  * to you: TWU
  * use it: TAOUS
  * when you: WHU
  * which was: WEUFS
  * you are not: URPBT
  * you are the: URT
-
+ to the
 
 
 

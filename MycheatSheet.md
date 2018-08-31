@@ -17,10 +17,7 @@
  * don't have: STKROEPBT
  * editing: EGTD
  * except: KPEPT
- * git checkout: TKPWEUT/KHOUT
  * inform: TPH-F
- * item: AOEUPLT
- * media: PHO*EUD
  * navigation: TPHAFGS
  * permission: PERPLGS
  * responsible: SPOP
@@ -28,8 +25,6 @@
  * syn: S*EUPB
  * until: TPH-L
  * visualization: SREUFL/SAEUGS
- * we could: WEBGD
- * yesterday: KWRED
 
 
 
