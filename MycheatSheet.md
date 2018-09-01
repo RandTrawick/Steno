@@ -17,6 +17,7 @@
  * description: SKREUPGS
  * don't have: STKROEPBT
  * editing: EGTD
+ * entire: SPWAOEUR
  * except: KPEPT
  * inform: TPH-F
  * navigation: TPHAFGS
