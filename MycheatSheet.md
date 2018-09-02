@@ -1,11 +1,12 @@
 # My cheat sheet
 
- * " (ending) "KR-GS"
- * " (leading) "KW-GS"
+ * 13:00: #SBG, add BG to number for clock time
+ * " (ending): KR-GS
+ * " (leading): KW-GS
  * (add space): AFPS
  * /: OEU
- * ; : TH-FL
  * ^ation: AEUGS
+ * ^ian: KWRAPB
  * ^ion: KWROPB
  * {MODE:CAMEL}: K-BGS
  * {MODE:RESET}: KHRAO*ER
@@ -24,10 +25,8 @@
  * permission: PERPLGS
  * responsible: SPOP
  * responsive: SPO*F
- * syn: S*EUPB
  * until: TPH-L
  * visualization: SREUFL/SAEUGS
-
 
 
 [Phrases](Phrases.md)  
