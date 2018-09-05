@@ -19,6 +19,7 @@
  * don't have: STKROEPBT
  * editing: EGTD
  * entire: SPWAOEUR
+ * environment: SRAOEUPLT
  * except: KPEPT
  * inform: TPH-F
  * navigation: TPHAFGS
