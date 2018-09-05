@@ -1,12 +1,23 @@
 # phrases so that I can practice
 
  * and he can: SKPEBG
+ * and I believe: SKPEUBL
+ * and I can't: SKPEUBGT
+ * and I have: SKPEUF
+ * and I said: SKPEUBS
+ * and I should: SKPEURBD
+ * and I think: SKPEUPBG
+ * and I want: SKPEUPBT
+ * and I will: SKPEUL
  * and the: SKP-T
  * and you: SKPU
  * are not: R-PBLT
  * could have: KOUF
  * don't have: STKROEPBT
  * except that: TKPHAEPT
+ * exist: SKPEUFT
+ * existence: SKPEUFPBS
+ * extinct: SKPEUPBGT
  * for the: TP-RT
  * going to do: TKPW*G/TKPO
  * I can't go: KWRAG
@@ -31,5 +42,3 @@
  * which was: WEUFS
  * you are not: URPBT
  * you are the: URT
-
-
