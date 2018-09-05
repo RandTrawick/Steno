@@ -20,6 +20,7 @@
  * extinct: SKPEUPBGT
  * for the: TP-RT
  * going to do: TKPW*G/TKPO
+ * I can't believe: KWRABL
  * I can't go: KWRAG
  * I did: TK * EUD
  * I don't have: KWROF
