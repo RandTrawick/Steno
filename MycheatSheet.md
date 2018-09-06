@@ -22,6 +22,7 @@
  * environment: SRAOEUPLT
  * except: KPEPT
  * inform: TPH-F
+ * migration: PHAOEUG/RAEUGS
  * navigation: TPHAFGS
  * permission: PERPLGS
  * responsible: SPOP
