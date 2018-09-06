@@ -21,6 +21,7 @@
  * entire: SPWAOEUR
  * environment: SRAOEUPLT
  * except: KPEPT
+ * exclude: SKHRAOUD
  * inform: TPH-F
  * migration: PHAOEUG/RAEUGS
  * navigation: TPHAFGS
