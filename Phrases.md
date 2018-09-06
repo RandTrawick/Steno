@@ -14,6 +14,7 @@
  * are not: R-PBLT
  * could have: KOUF
  * don't have: STKROEPBT
+ * do you think: TKWUPBG
  * except that: TKPHAEPT
  * exist: SKPEUFT
  * existence: SKPEUFPBS
