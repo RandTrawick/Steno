@@ -1,5 +1,6 @@
 # phrases so that I can practice
 
+ * a lot of: HROEFLT
  * and he can: SKPEBG
  * and I believe: SKPEUBL
  * and I can't: SKPEUBGT
@@ -34,6 +35,7 @@
  * other side: O * ERDZ
  * part of the: PAFRT
  * see it: STAOE
+ * there was: THR-FS
  * they were: THERP
  * to do it: TKO/TK/T
  * to do that: TKO/HA/THA
