@@ -42,6 +42,7 @@
  * to the best of my knowledge: TEUPBLG
  * to you: TWU
  * use it: TAOUS
+ * want to have: WAOEPBT/SR
  * when you: WHU
  * which was: WEUFS
  * you are not: URPBT
