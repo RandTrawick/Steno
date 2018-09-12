@@ -10,25 +10,22 @@
  * ^ion: KWROPB
  * {MODE:CAMEL}: K-BGS
  * {MODE:RESET}: KHRAO*ER
- * actually: TAOULT
  * basically: PHRAEUFBG
  * Capitalize Last Word: KA*PD
  * continue: T-PB
  * completely: KPHRELT
  * description: SKREUPGS
- * don't have: STKROEPBT
  * editing: EGTD
  * entire: SPWAOEUR
  * environment: SRAOEUPLT
- * except: KPEPT
  * exclude: SKHRAOUD
  * inform: TPH-F
+ * Interesting: TR-G
  * migration: PHAOEUG/RAEUGS
  * navigation: TPHAFGS
  * permission: PERPLGS
  * responsible: SPOP
  * responsive: SPO*F
- * until: TPH-L
  * visualization: SREUFL/SAEUGS
 
 
