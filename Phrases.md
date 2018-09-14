@@ -35,6 +35,7 @@
  * other side: O * ERDZ
  * part of the: PAFRT
  * see it: STAOE
+ * some of the: SOFPLT
  * there was: THR-FS
  * they were: THERP
  * to do it: TKO/TK/T
