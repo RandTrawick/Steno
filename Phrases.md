@@ -24,6 +24,7 @@
  * going to do: TKPW*G/TKPO
  * I can't believe: KWRABL
  * I can't go: KWRAG
+ * I can't remember: KWRARPL
  * I did: TK * EUD
  * I don't have: KWROF
  * if I'm: TPAOEUPL
