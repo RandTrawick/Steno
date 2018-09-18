@@ -24,6 +24,7 @@
  * Interesting: TR-G
  * migration: PHAOEUG/RAEUGS
  * navigation: TPHAFGS
+ * no one: TPHOEUPB
  * page layout: PAEUPBLT
  * permission: PERPLGS
  * responsible: SPOP
