@@ -12,6 +12,7 @@
  * {MODE:RESET}: KHRAO*ER
  * admin: TKPHEUPB
  * basically: PHRAEUFBG
+ * busy: PW-Z
  * Capitalize Last Word: KA*PD
  * continue: T-PB
  * completely: KPHRELT

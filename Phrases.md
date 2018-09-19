@@ -40,6 +40,7 @@
  * some of the: SOFPLT
  * there was: THR-FS
  * they were: THERP
+ * things to: THOEUPBGS
  * to do it: TKO/TK/T
  * to do that: TKO/HA/THA
  * to the best of my knowledge: TEUPBLG
