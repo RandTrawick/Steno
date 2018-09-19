@@ -11,6 +11,7 @@
  * {MODE:CAMEL}: K-BGS
  * {MODE:RESET}: KHRAO*ER
  * admin: TKPHEUPB
+ * at least: THRAES
  * basically: PHRAEUFBG
  * busy: PW-Z
  * Capitalize Last Word: KA*PD
@@ -29,6 +30,7 @@
  * page layout: PAEUPBLT
  * permission: PERPLGS
  * responsible: SPOP
+ * responsibility: SPOBLT
  * responsive: SPO*F
  * visualization: SREUFL/SAEUGS
 
