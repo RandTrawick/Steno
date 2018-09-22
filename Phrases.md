@@ -21,6 +21,7 @@
  * existence: SKPEUFPBS
  * extinct: SKPEUPBGT
  * for the: TP-RT
+ * from you: TPRU
  * going to do: TKPW*G/TKPO
  * I can't believe: KWRABL
  * I can't go: KWRAG
