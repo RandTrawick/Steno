@@ -33,6 +33,7 @@
  * if you want: TPUPT
  * in a: TPHA*EU
  * is in: STPH
+ * it can: T-BG
  * let me know: PHROET
  * more than: PH-RPB
  * other side: O * ERDZ
