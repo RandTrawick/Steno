@@ -20,13 +20,13 @@
  * exist: SKPEUFT
  * existence: SKPEUFPBS
  * extinct: SKPEUPBGT
- * for the: TP-RT
+ * even if: TPAOEPB
  * from you: TPRU
  * going to do: TKPW*G/TKPO
  * I can't believe: KWRABL
  * I can't go: KWRAG
  * I can't remember: KWRARPL
- * I did: TK * EUD
+ * I did: TK*EUD
  * I don't have: KWROF
  * if I'm: TPAOEUPL
  * if you have: TPUF
@@ -34,6 +34,7 @@
  * in a: TPHA*EU
  * is in: STPH
  * it can: T-BG
+ * it's a: TAEUS
  * let me know: PHROET
  * more than: PH-RPB
  * other side: O * ERDZ
