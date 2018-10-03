@@ -1,5 +1,6 @@
 # My cheat sheet
 
+ *  =>: KPRG
  * 13:00: #SBG, add BG to number for clock time
  * " (ending): KR-GS
  * " (leading): KW-GS

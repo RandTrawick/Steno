@@ -1,6 +1,7 @@
 # phrases so that I can practice
 
  * a lot of: HROEFLT
+ * all of the: AUFLT
  * and he can: SKPEBG
  * and I believe: SKPEUBL
  * and I can't: SKPEUBGT
@@ -39,6 +40,7 @@
  * more than: PH-RPB
  * other side: O * ERDZ
  * part of the: PAFRT
+ * rather than: RARPB
  * see it: STAOE
  * some of the: SOFPLT
  * there was: THR-FS
