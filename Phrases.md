@@ -14,6 +14,7 @@
  * and the: SKP-T
  * and you: SKPU
  * are not: R-PBLT
+ * be the: -BT
  * could have: KOUF
  * don't have: STKROEPBT
  * do you think: TKWUPBG
