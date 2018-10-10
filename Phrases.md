@@ -18,9 +18,6 @@
  * don't have: STKROEPBT
  * do you think: TKWUPBG
  * except that: TKPHAEPT
- * exist: SKPEUFT
- * existence: SKPEUFPBS
- * extinct: SKPEUPBGT
  * even if: TPAOEPB
  * from you: TPRU
  * going to do: TKPW*G/TKPO
@@ -31,6 +28,7 @@
  * I don't have: KWROF
  * if I'm: TPAOEUPL
  * if you have: TPUF
+ * if you think: TPUPBG
  * if you want: TPUPT
  * in a: TPHA*EU
  * is in: STPH

@@ -23,6 +23,9 @@
  * entire: SPWAOEUR
  * environment: SRAOEUPLT
  * exclude: SKHRAOUD
+ * exist: SKPEUFT
+ * existence: SKPEUFPBS
+ * extinct: SKPEUPBGT
  * inform: TPH-F
  * Interesting: TR-G
  * migration: PHAOEUG/RAEUGS
