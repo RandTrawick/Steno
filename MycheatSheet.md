@@ -13,6 +13,7 @@
  * {MODE:RESET}: KHRAO*ER
  * admin: TKPHEUPB
  * at least: THRAES
+ * available: SRAEUBL
  * basically: PHRAEUFBG
  * busy: PW-Z
  * Capitalize Last Word: KA*PD
