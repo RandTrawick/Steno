@@ -26,6 +26,7 @@
  * I can't go: KWRAG
  * I can't remember: KWRARPL
  * I did: TK*EUD
+ * I don't: KWROEU
  * I don't have: KWROF
  * if I'm: TPAOEUPL
  * if you have: TPUF
