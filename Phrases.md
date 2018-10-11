@@ -29,6 +29,7 @@
  * I don't: KWROEU
  * I don't have: KWROF
  * if I'm: TPAOEUPL
+ * if I can: TPAOEUBG
  * if you have: TPUF
  * if you think: TPUPBG
  * if you want: TPUPT
@@ -59,6 +60,7 @@
  * when you: WHU
  * which has: KH-Z
  * which was: WEUFS
+ * would be: WOB
  * you are not: URPBT
  * you are the: URT
- * you know: KWRAOUPB
+ * you know: KW
