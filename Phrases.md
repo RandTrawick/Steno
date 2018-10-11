@@ -35,6 +35,7 @@
  * is in: STPH
  * it can: T-BG
  * it's a: TAEUS
+ * just to: STKWROUFT
  * let me know: PHROET
  * more than: PH-RPB
  * other side: O * ERDZ
@@ -43,6 +44,7 @@
  * see it: STAOE
  * some of the: SOFPLT
  * there was: THR-FS
+ * they have: THEF
  * they were: THERP
  * things to: THOEUPBGS
  * to do it: TKO/TK/T
@@ -52,6 +54,7 @@
  * use it: TAOUS
  * want to have: WAOEPBT/SR
  * when you: WHU
+ * which has: KH-Z
  * which was: WEUFS
  * you are not: URPBT
  * you are the: URT
