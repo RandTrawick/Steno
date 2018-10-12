@@ -13,6 +13,7 @@
  * {MODE:RESET}: KHRAO*ER
  * admin: TKPHEUPB
  * at least: THRAES
+ * analytics: APBL/EUT/EUBG/-S
  * available: SRAEUBL
  * basically: PHRAEUFBG
  * busy: PW-Z
