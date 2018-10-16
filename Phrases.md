@@ -36,6 +36,7 @@
  * in a: TPHA*EU
  * is in: STPH
  * it can: T-BG
+ * it could: T-BGD
  * it's a: TAEUS
  * just to: STKWROUFT
  * let me know: PHROET
