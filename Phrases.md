@@ -28,6 +28,7 @@
  * I did: TK*EUD
  * I don't: KWROEU
  * I don't have: KWROF
+ * I don't know: KWROEPB
  * I don't understand: KWROPBDZ
  * if I'm: TPAOEUPL
  * if I can: TPAOEUBG
