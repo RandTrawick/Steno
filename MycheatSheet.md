@@ -29,7 +29,8 @@
  * existence: SKPEUFPBS
  * extinct: SKPEUPBGT
  * inform: TPH-F
- * Interesting: TR-G
+ * interesting: TR-G
+ * happiness HAP/-PBS
  * migration: PHAOEUG/RAEUGS
  * mountain: PH*PB
  * navigation: TPHAFGS
