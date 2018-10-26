@@ -30,6 +30,7 @@
  * I don't have: KWROF
  * I don't know: KWROEPB
  * I don't understand: KWROPBDZ
+ * I should: EURBD
  * if I'm: TPAOEUPL
  * if I can: TPAOEUBG
  * if you have: TPUF
@@ -51,6 +52,7 @@
  * see it: STAOE
  * some of the: SOFPLT
  * that you can: THAUBG
+ * there is: THR-LGS
  * there was: THR-FS
  * they have: THEF
  * they were: THERP
