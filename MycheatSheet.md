@@ -21,6 +21,7 @@
  * continue: T-PB
  * completely: KPHRELT
  * description: SKREUPGS
+ * depend: TK-P
  * editing: EGTD
  * entire: SPWAOEUR
  * environment: SRAOEUPLT
