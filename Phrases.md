@@ -53,7 +53,6 @@
  * some of the: SOFPLT
  * that you can: THAUBG
  * there is: THR-LGS
- * there was: THR-FS
  * they have: THEF
  * they were: THERP
  * things to: THOEUPBGS
@@ -66,7 +65,6 @@
  * when you: WHU
  * which has: KH-Z
  * which was: WEUFS
- * would be: WOB
  * you are not: URPBT
  * you are the: URT
  * you know: KW

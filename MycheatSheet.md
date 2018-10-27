@@ -6,9 +6,6 @@
  * " (leading): KW-GS
  * (add space): AFPS
  * /: OEU
- * ^ation: AEUGS
- * ^ian: KWRAPB
- * ^ion: KWROPB
  * {MODE:CAMEL}: K-BGS
  * {MODE:RESET}: KHRAO*ER
  * admin: TKPHEUPB
@@ -26,7 +23,6 @@
  * entire: SPWAOEUR
  * environment: SRAOEUPLT
  * exclude: SKHRAOUD
- * exist: SKPEUFT
  * existence: SKPEUFPBS
  * extinct: SKPEUPBGT
  * inform: TPH-F
