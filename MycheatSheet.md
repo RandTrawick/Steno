@@ -19,6 +19,7 @@
  * completely: KPHRELT
  * description: SKREUPGS
  * depend: TK-P
+ * debugger: TKPWURG
  * editing: EGTD
  * entire: SPWAOEUR
  * environment: SRAOEUPLT
