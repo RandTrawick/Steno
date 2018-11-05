@@ -13,12 +13,12 @@
  * analytics: APBL/EUT/EUBG/-S
  * available: SRAEUBL
  * basically: PHRAEUFBG
- * busy: PW-Z
  * Capitalize Last Word: KA*PD
  * continue: T-PB
  * completely: KPHRELT
  * description: SKREUPGS
  * depend: TK-P
+ * debugger: TKPWURG
  * editing: EGTD
  * entire: SPWAOEUR
  * environment: SRAOEUPLT
@@ -27,7 +27,8 @@
  * extinct: SKPEUPBGT
  * inform: TPH-F
  * interesting: TR-G
- * happiness HAP/-PBS
+ * js, add semi-colon to the end of the line: SKWR*S/SKHROEUPB
+* happiness HAP/-PBS
  * migration: PHAOEUG/RAEUGS
  * mountain: PH*PB
  * navigation: TPHAFGS

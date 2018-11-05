@@ -41,7 +41,6 @@
  * it can: T-BG
  * it could: T-BGD
  * it's a: TAEUS
- * js, add semi-colon to the end of the line: SKWR*S/SKHROEUPB
  * just to: STKWROUFT
  * let me know: PHROET
  * more than: PH-RPB
