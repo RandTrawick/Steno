@@ -28,7 +28,7 @@
  * inform: TPH-F
  * interesting: TR-G
  * js, add semi-colon to the end of the line: SKWR*S/SKHROEUPB
-* happiness HAP/-PBS
+ * happiness HAP/-PBS
  * migration: PHAOEUG/RAEUGS
  * mountain: PH*PB
  * navigation: TPHAFGS
