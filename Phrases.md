@@ -5,7 +5,6 @@
  * and he can: SKPEBG
  * and I believe: SKPEUBL
  * and I can't: SKPEUBGT
- * and I have: SKPEUF
  * and I said: SKPEUBS
  * and I should: SKPEURBD
  * and I think: SKPEUPBG
@@ -42,7 +41,6 @@
  * it could: T-BGD
  * it's a: TAEUS
  * just to: STKWROUFT
- * let me know: PHROET
  * more than: PH-RPB
  * of course: -FBG
  * or not: ORPBT
@@ -52,9 +50,6 @@
  * see it: STAOE
  * some of the: SOFPLT
  * that you can: THAUBG
- * there is: THR-LGS
- * they have: THEF
- * they were: THERP
  * things to: THOEUPBGS
  * to do it: TKO/TK/T
  * to do that: TKO/HA/THA
