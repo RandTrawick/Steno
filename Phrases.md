@@ -1,7 +1,6 @@
 # phrases so that I can practice
 
  * a lot of: HROEFLT
- * all of the: AUFLT
  * and he can: SKPEBG
  * and I believe: SKPEUBL
  * and I can't: SKPEUBGT
@@ -9,9 +8,6 @@
  * and I should: SKPEURBD
  * and I think: SKPEUPBG
  * and I want: SKPEUPBT
- * and I will: SKPEUL
- * and the: SKP-T
- * and you: SKPU
  * are not: R-PBLT
  * be the: -BT
  * could have: KOUF
@@ -35,13 +31,13 @@
  * if you have: TPUF
  * if you think: TPUPBG
  * if you want: TPUPT
- * in a: TPHA*EU
  * is in: STPH
  * it can: T-BG
  * it could: T-BGD
  * it's a: TAEUS
  * just to: STKWROUFT
  * more than: PH-RPB
+ * need to: TPHAO*EUD
  * of course: -FBG
  * or not: ORPBT
  * other side: O * ERDZ
@@ -58,6 +54,7 @@
  * use it: TAOUS
  * want to have: WAOEPBT/SR
  * when you: WHU
+ * where the: WRT
  * which has: KH-Z
  * which was: WEUFS
  * you are not: URPBT
