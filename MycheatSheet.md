@@ -8,11 +8,13 @@
  * /: OEU
  * {MODE:CAMEL}: K-BGS
  * {MODE:RESET}: KHRAO*ER
+ * {MODE: lower CPAP Lower lower}: KHRAO*ER
  * admin: TKPHEUPB
  * at least: THRAES
  * analytics: APBL/EUT/EUBG/-S
  * available: SRAEUBL
  * basically: PHRAEUFBG
+ * console.warn(): SKWARPB
  * Capitalize Last Word: KA*PD
  * continue: T-PB
  * completely: KPHRELT
