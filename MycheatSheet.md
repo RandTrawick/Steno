@@ -16,14 +16,12 @@
  * basically: PHRAEUFBG
  * console.warn(): SKWARPB
  * Capitalize Last Word: KA*PD
- * continue: T-PB
  * completely: KPHRELT
  * description: SKREUPGS
  * depend: TK-P
  * debugger: TKPWURG
  * editing: EGTD
  * entire: SPWAOEUR
- * environment: SRAOEUPLT
  * exclude: SKHRAOUD
  * existence: SKPEUFPBS
  * extinct: SKPEUPBGT
@@ -40,7 +38,7 @@
  * responsible: SPOP
  * responsibility: SPOBLT
  * responsive: SPO*F
- * service: S-FS
+ * separate: SERPT
  * visualization: SREUFL/SAEUGS
 
 
