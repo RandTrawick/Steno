@@ -1,6 +1,7 @@
 # My cheat sheet
 
  *  =>: KPRG
+ *  +: PHR*S
  * 13:00: #SBG, add BG to number for clock time
  * " (ending): KR-GS
  * " (leading): KW-GS
@@ -16,6 +17,7 @@
  * basically: PHRAEUFBG
  * console.warn(): SKWARPB
  * Capitalize Last Word: KA*PD
+* communication: KAEUBGS
  * completely: KPHRELT
  * description: SKREUPGS
  * depend: TK-P
