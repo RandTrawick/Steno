@@ -1,14 +1,14 @@
 # My cheat sheet
 
+ * HROEUR: lower next
+ * HRO*EUR: lower next with no space before
+ * HROEURD: lower last
  *  =>: KPRG
- *  +: PHR*S
  * 13:00: #SBG, add BG to number for clock time
  * " (ending): KR-GS
  * " (leading): KW-GS
  * (add space): AFPS
- * /: OEU
  * {MODE:CAMEL}: K-BGS
- * {MODE:RESET}: KHRAO*ER
  * {MODE: lower CPAP Lower lower}: KHRAO*ER
  * admin: TKPHEUPB
  * at least: THRAES
@@ -17,14 +17,12 @@
  * basically: PHRAEUFBG
  * console.warn(): SKWARPB
  * Capitalize Last Word: KA*PD
-* communication: KAEUBGS
+ * communication: KAEUBGS
  * completely: KPHRELT
  * description: SKREUPGS
- * depend: TK-P
  * debugger: TKPWURG
  * editing: EGTD
  * entire: SPWAOEUR
- * exclude: SKHRAOUD
  * existence: SKPEUFPBS
  * extinct: SKPEUPBGT
  * inform: TPH-F
