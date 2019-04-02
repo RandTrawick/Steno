@@ -15,18 +15,16 @@
  * analytics: APBL/EUT/EUBG/-S
  * available: SRAEUBL
  * basically: PHRAEUFBG
- * console.warn(): SKWARPB
+ * caveat: KAF/KWRAT
  * Capitalize Last Word: KA*PD
  * communication: KAEUBGS
+ * console.warn(): SKWARPB
  * completely: KPHRELT
- * description: SKREUPGS
  * debugger: TKPWURG
- * editing: EGTD
  * entire: SPWAOEUR
  * existence: SKPEUFPBS
  * extinct: SKPEUPBGT
  * inform: TPH-F
- * interesting: TR-G
  * js, add semi-colon to the end of the line: SKWR*S/SKHROEUPB
  * happiness HAP/-PBS
  * migration: PHAOEUG/RAEUGS
@@ -38,7 +36,6 @@
  * responsible: SPOP
  * responsibility: SPOBLT
  * responsive: SPO*F
- * separate: SERPT
  * visualization: SREUFL/SAEUGS
 
 
