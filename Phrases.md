@@ -6,7 +6,6 @@
  * and I can't: SKPEUBGT
  * and I said: SKPEUBS
  * and I should: SKPEURBD
- * and I think: SKPEUPBG
  * and I want: SKPEUPBT
  * are not: R-PBLT
  * be the: -BT
@@ -21,7 +20,6 @@
  * I can't go: KWRAG
  * I can't remember: KWRARPL
  * I did: TK*EUD
- * I don't: KWROEU
  * I don't have: KWROF
  * I don't understand: KWROPBDZ
  * I have been: EUFB
@@ -36,6 +34,7 @@
  * it could: T-BGD
  * it's a: TAEUS
  * just to: STKWROUFT
+ * looks good to me: HR-PBLG
  * more than: PH-RPB
  * need to: TPHAO*EUD
  * of course: -FBG

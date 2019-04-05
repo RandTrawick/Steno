@@ -11,7 +11,7 @@
  * {MODE:CAMEL}: K-BGS
  * {MODE: lower CPAP Lower lower}: KHRAO*ER
  * admin: TKPHEUPB
- * altogether: HR-GT
+ * altogether: <HR-GT></HR-GT>
  * at least: THRAES
  * analytics: APBL/EUT/EUBG/-S
  * available: SRAEUBL
