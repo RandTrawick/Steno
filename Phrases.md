@@ -20,6 +20,7 @@
  * I can't go: KWRAG
  * I can't remember: KWRARPL
  * I did: TK*EUD
+ * I did it: TKEU/T
  * I don't have: KWROF
  * I don't understand: KWROPBDZ
  * I have been: EUFB
