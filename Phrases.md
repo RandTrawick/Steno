@@ -48,6 +48,7 @@
  * some of the: SOFPLT
  * that you can: THAUBG
  * things to: THOEUPBGS
+ * this afternoon: TH-FRPB
  * to do it: TKO/TK/T
  * to do that: TKO/HA/THA
  * to the best of my knowledge: TEUPBLG
