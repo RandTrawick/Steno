@@ -11,7 +11,7 @@
  * {MODE:CAMEL}: K-BGS
  * {MODE: lower CPAP Lower lower}: KHRAO*ER
  * admin: TKPHEUPB
- * altogether: <HR-GT></HR-GT>
+ * altogether: HR/GT
  * at least: THRAES
  * analytics: APBL/EUT/EUBG/-S
  * available: SRAEUBL
@@ -31,7 +31,6 @@
  * migration: PHAOEUG/RAEUGS
  * mountain: PH*PB
  * navigation: TPHAFGS
- * no one: TPHOEUPB
  * page layout: PAEUPBLT
  * permission: PERPLGS
  * responsible: SPOP

@@ -36,8 +36,9 @@
  * just to: STKWROUFT
  * looks good to me: HR-PBLG
  * more than: PH-RPB
- * need to: TPHAO*EUD
+ * no one: TPHOEUPB
  * of course: -FBG
+ * on this: THOPB
  * or not: ORPBT
  * other side: O * ERDZ
  * part of the: PAFRT
