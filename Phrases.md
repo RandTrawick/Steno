@@ -22,6 +22,7 @@
  * I did: TK*EUD
  * I did it: TKEU/T
  * I don't have: KWROF
+ * I don't need: KWROEUPBD
  * I don't understand: KWROPBDZ
  * I have been: EUFB
  * I should: EURBD
