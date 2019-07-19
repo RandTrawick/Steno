@@ -16,6 +16,9 @@
  * even if: TPAOEPB
  * from you: TPRU
  * going to do: TKPW*G/TKPO
+ * has been: HAB
+ * how about you: PWHU
+ * how about: HOUB
  * I can't believe: KWRABL
  * I can't go: KWRAG
  * I can't remember: KWRARPL
