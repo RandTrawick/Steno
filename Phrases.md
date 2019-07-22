@@ -29,6 +29,7 @@
  * I don't understand: KWROPBDZ
  * I have been: EUFB
  * I should: EURBD
+ * isn't the: STPH-T
  * if I'm: TPAOEUPL
  * if I can: TPAOEUBG
  * if you have: TPUF
@@ -60,7 +61,6 @@
  * to you: TWU
  * use it: TAOUS
  * want to have: WAOEPBT/SR
- * when you: WHU
  * where the: WRT
  * which has: KH-Z
  * which was: WEUFS
