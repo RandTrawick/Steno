@@ -31,6 +31,7 @@
  * migration: PHAOEUG/RAEUGS
  * mountain: PH*PB
  * navigation: TPHAFGS
+ * noticed: TPH-TSD
  * page layout: PAEUPBLT
  * permission: PERPLGS
  * responsible: SPOP
