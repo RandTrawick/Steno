@@ -9,6 +9,7 @@
  * and I want: SKPEUPBT
  * are not: R-PBLT
  * be the: -BT
+ * correct me if I'm wrong: KROPBG
  * could have: KOUF
  * don't have: STKROEPBT
  * do you think: TKWUPBG
