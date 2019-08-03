@@ -13,6 +13,7 @@
  * could have: KOUF
  * don't have: STKROEPBT
  * do you think: TKWUPBG
+ * do you see: TOUZ
  * except that: TKPHAEPT
  * even if: TPAOEPB
  * from you: TPRU
