@@ -11,6 +11,7 @@
  * {MODE:CAMEL}: K-BGS
  * {MODE: lower CPAP Lower lower}: KHRAO*ER
  * altogether: HR/GT
+ * and/or: SKPOR
  * automatic: AUPL/EUBG
  * automatically: AUPL/HREU
  * at least: THRAES
