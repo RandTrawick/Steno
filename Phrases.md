@@ -20,6 +20,7 @@
  * from you: TPRU
  * going to do: TKPW*G/TKPO
  * has been: HAB
+ * he has: HEZ
  * how about you: PWHU
  * how about: HOUB
  * I can't believe: KWRABL
