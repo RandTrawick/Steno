@@ -36,6 +36,7 @@
  * navigation: TPHAFGS
  * noticed: TPH-TSD
  * page layout: PAEUPBLT
+ * page layout: PAEUPBLGT
  * permission: PERPLGS
  * responsible: SPOP
  * responsibility: SPOBLT
