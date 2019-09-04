@@ -38,6 +38,7 @@
  * page layout: PAEUPBLT
  * page layout: PAEUPBLGT
  * permission: PERPLGS
+ * relationship: R*EUP
  * responsible: SPOP
  * responsibility: SPOBLT
  * responsive: SPO*F
