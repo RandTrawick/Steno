@@ -23,6 +23,7 @@
  * communication: KAEUBGS
  * console.warn(): SKWARPB
  * completely: KPHRELT
+ * configuration: KR-FRGS
  * debugger: TKPWURG
  * entire: SPWAOEUR
  * existence: SKPEUFPBS
