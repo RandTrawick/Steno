@@ -8,6 +8,7 @@
  * and I should: SKPEURBD
  * and I want: SKPEUPBT
  * are not: R-PBLT
+ * area: KWRA*ER
  * be the: -BT
  * correct me if I'm wrong: KROPBG
  * could have: KOUF
