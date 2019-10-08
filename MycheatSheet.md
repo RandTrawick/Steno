@@ -12,6 +12,7 @@
  * {MODE: lower CPAP Lower lower}: KHRAO*ER
  * altogether: HR/GT
  * and/or: SKPOR
+ * area: KWRA*ER
  * automatic: AUPL/EUBG
  * automatically: AUPL/HREU
  * at least: THRAES
