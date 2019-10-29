@@ -10,9 +10,9 @@
  * are not: R-PBLT
  * be the: -BT
  * correct me if I'm wrong: KROPBG
- * could have: KOUF
  * did not: TK-PBLT
  * don't have: STKROEPBT
+ * do you mean: TKOUPL
  * do you think: TKWUPBG
  * do you see: TOUZ
  * except that: TKPHAEPT
@@ -36,12 +36,6 @@
  * isn't the: STPH-T
  * if I'm: TPAOEUPL
  * if I can: TPAOEUBG
- * if you have: TPUF
- * if you think: TPUPBG
- * if you want: TPUPT
- * is in: STPH
- * it can: T-BG
- * it could: T-BGD
  * it's a: TAEUS
  * just to: STKWROUFT
  * look at: HRAOBGT
@@ -53,7 +47,6 @@
  * on this: THOPB
  * or not: ORPBT
  * other side: O * ERDZ
- * part of the: PAFRT
  * rather than: RARPB
  * see it: STAOE
  * some of the: SOFPLT
@@ -70,7 +63,6 @@
  * where I can: WR*EUBG
  * where the: WRT
  * which has: KH-Z
- * which was: WEUFS
  * you are not: URPBT
  * you are the: URT
  * you know: KW
