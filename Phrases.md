@@ -52,6 +52,8 @@
  * see it: STAOE
  * some of the: SOFPLT
  * that you can: THAUBG
+ * that you want: THAUPT
+ * that you want to: THA*UPT
  * they wanted: THEPTD
  * things to: THOEUPBGS
  * this afternoon: TH-FRPB
