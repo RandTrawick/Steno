@@ -36,6 +36,7 @@
  * isn't the: STPH-T
  * if I'm: TPAOEUPL
  * if I can: TPAOEUBG
+ * if you want to: TP*UPT
  * it's a: TAEUS
  * just to: STKWROUFT
  * look at: HRAOBGT
