@@ -2,6 +2,7 @@
 
  * a lot of: HROEFLT
  * and he can: SKPEBG
+ * and I'm: AOEUPBLD
  * and I believe: SKPEUBL
  * and I can't: SKPEUBGT
  * and I said: SKPEUBS
@@ -69,3 +70,4 @@
  * you are not: URPBT
  * you are the: URT
  * you know: KW
+ * you know what I mean: KWRAOEPL

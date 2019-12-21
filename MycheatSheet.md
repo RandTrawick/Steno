@@ -29,18 +29,15 @@
  * entire: SPWAOEUR
  * existence: SKPEUFPBS
  * extinct: SKPEUPBGT
- * https://: HOEUPT
  * extinct: SKPEUPBGT
  * inform: TPH-F
  * inside: TPH-DZ
  * js, add semi-colon to the end of the line: SKWR*S/SKHROEUPB
  * happiness HAP/-PBS
- * migration: PHAOEUG/RAEUGS
+ * misunderstanding: PHURPBGD
  * mountain: PH*PB
  * navigation: TPHAFGS
  * noticed: TPH-TSD
- * page layout: PAEUPBLT
- * page layout: PAEUPBLGT
  * permission: PERPLGS
  * relationship: R*EUP
  * responsible: SPOP
