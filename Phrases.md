@@ -1,15 +1,13 @@
 # phrases so that I can practice
 
  * a lot of: HROEFLT
- * and he can: SKPEBG
  * and I'm: AOEUPBLD
  * and I believe: SKPEUBL
  * and I can't: SKPEUBGT
  * and I said: SKPEUBS
- * and I should: SKPEURBD
- * and I want: SKPEUPBT
  * are not: R-PBLT
  * be the: -BT
+ * clean up: KHRUP
  * correct me if I'm wrong: KROPBG
  * did not: TK-PBLT
  * don't have: STKROEPBT
@@ -33,7 +31,6 @@
  * I don't need: KWROEUPBD
  * I don't understand: KWROPBDZ
  * I have been: EUFB
- * I should: EURBD
  * isn't the: STPH-T
  * if I'm: TPAOEUPL
  * if I can: TPAOEUBG
