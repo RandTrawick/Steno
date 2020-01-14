@@ -6,6 +6,7 @@
  * and I can't: SKPEUBGT
  * and I said: SKPEUBS
  * are not: R-PBLT
+ * as well as: SW-LS
  * be the: -BT
  * clean up: KHRUP
  * correct me if I'm wrong: KROPBG
