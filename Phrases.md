@@ -41,6 +41,7 @@
  * just to: STKWROUFT
  * look at: HRAOBGT
  * looks good to me: HR-PBLG
+ * might be: PHAOEUB
  * more than: PH-RPB
  * needs to be: TPHAOEBDZ
  * no one: TPHOEUPB
