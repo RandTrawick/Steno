@@ -1,6 +1,7 @@
 # phrases so that I can practice
 
  * a lot of: HROEFLT
+*  all of this: AUL/TH-F
  * and I'm: AOEUPBLD
  * and I believe: SKPEUBL
  * and I can't: SKPEUBGT
