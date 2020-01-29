@@ -65,6 +65,7 @@
  * to you: TWU
  * use it: TAOUS
  * want to have: WAOEPBT/SR
+ * we don't know: WOEPB
  * where I can: WR*EUBG
  * where the: WRT
  * which has: KH-Z
