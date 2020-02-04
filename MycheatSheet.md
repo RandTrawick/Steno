@@ -16,12 +16,9 @@
  * automatic: AUPL/EUBG
  * automatically: AUPL/HREU
  * at least: THRAES
- * analytics: APBL/EUT/EUBG/-S
- * available: SRAEUBL
- * basically: PHRAEUFBG
  * caveat: KAF/KWRAT
  * Capitalize Last Word: KA*PD
- * communication: KAEUBGS
+ * combined: KPWAOEUPBD
  * console.warn(): SKWARPB
  * completely: KPHRELT
  * configuration: KR-FRGS
@@ -36,7 +33,6 @@
  * happiness HAP/-PBS
  * misunderstanding: PHURPBGD
  * mountain: PH*PB
- * navigation: TPHAFGS
  * noticed: TPH-TSD
  * permission: PERPLGS
  * relationship: R*EUP
