@@ -10,6 +10,7 @@
  * (add space): AFPS
  * {MODE:CAMEL}: K-BGS
  * {MODE: lower CPAP Lower lower}: KHRAO*ER
+ * accident: STKEPB
  * altogether: HR/GT
  * and/or: SKPOR
  * area: KWRA*ER
