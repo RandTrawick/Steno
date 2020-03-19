@@ -26,6 +26,7 @@
  * he has: HEZ
  * how about you: PWHU
  * how about: HOUB
+ * how to: THAOU
  * I can't believe: KWRABL
  * I can't go: KWRAG
  * I can't remember: KWRARPL
@@ -46,7 +47,6 @@
  * looks good to me: HR-PBLG
  * might be: PHAOEUB
  * more than: PH-RPB
- * needs to be: TPHAOEBDZ
  * no one: TPHOEUPB
  * of course: -FBG
  * on this: THOPB

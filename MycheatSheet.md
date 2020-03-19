@@ -12,7 +12,6 @@
  * {MODE: lower CPAP Lower lower}: KHRAO*ER
  * accident: STKEPB
  * altogether: HR/GT
- * and/or: SKPOR
  * area: KWRA*ER
  * automatic: AUPL/EUBG
  * automatically: AUPL/HREU
@@ -26,7 +25,6 @@
  * debugger: TKPWURG
  * entire: SPWAOEUR
  * existence: SKPEUFPBS
- * extinct: SKPEUPBGT
  * extinct: SKPEUPBGT
  * inform: TPH-F
  * inside: TPH-DZ
