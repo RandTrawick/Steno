@@ -45,6 +45,7 @@
  * it's a: TAEUS
  * just to: STKWROUFT
  * look at: HRAOBGT
+ * look at that: THRAOBGT
  * looks good to me: HR-PBLG
  * might be: PHAOEUB
  * more than: PH-RPB
