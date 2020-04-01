@@ -24,6 +24,7 @@
  * configuration: KR-FRGS
  * debugger: TKPWURG
  * entire: SPWAOEUR
+ * entry: SPWREU
  * existence: SKPEUFPBS
  * extinct: SKPEUPBGT
  * inform: TPH-F
