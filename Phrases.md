@@ -1,7 +1,8 @@
 # phrases so that I can practice
 
  * a lot of: HROEFLT
-*  all of this: AUL/TH-F
+ * able to: TAOEUBL
+ * all of this: AUL/TH-F
  * and I'm: AOEUPBLD
  * and I believe: SKPEUBL
  * and I can't: SKPEUBGT
@@ -10,7 +11,6 @@
  * anyone else: TPHEUPBLS
  * as well as: SW-LS
  * be the: -BT
- * clean up: KHRUP
  * correct me if I'm wrong: KROPBG
  * did not: TK-PBLT
  * don't have: STKROEPBT
@@ -54,9 +54,8 @@
  * on this: THOPB
  * one that: TWHAUPB
  * or not: ORPBT
- * other side: O * ERDZ
+ * other side: O*ERDZ
  * rather than: RARPB
- * see it: STAOE
  * some of the: SOFPLT
  * that you can: THAUBG
  * that you want: THAUPT
