@@ -29,6 +29,7 @@
  * extinct: SKPEUPBGT
  * inform: TPH-F
  * inside: TPH-DZ
+ * intuitive: TWAOUF
  * js, add semi-colon to the end of the line: SKWR*S/SKHROEUPB
  * happiness HAP/-PBS
  * misunderstanding: PHURPBGD
