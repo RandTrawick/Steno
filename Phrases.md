@@ -59,6 +59,7 @@
  * rather than: RARPB
  * some of the: SOFPLT
  * that you can: THAUBG
+ * that you had: THAUD
  * that you want: THAUPT
  * that you want to: THA*UPT
  * they wanted: THEPTD
