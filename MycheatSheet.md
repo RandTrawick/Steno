@@ -26,6 +26,7 @@
  * entire: SPWAOEUR
  * entry: SPWREU
  * existence: SKPEUFPBS
+ * explicitly: explicitly
  * extinct: SKPEUPBGT
  * inform: TPH-F
  * inside: TPH-DZ
