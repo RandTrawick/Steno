@@ -22,7 +22,6 @@
  * console.warn(): SKWARPB
  * completely: KPHRELT
  * configuration: KR-FRGS
- * debugger: TKPWURG
  * entire: SPWAOEUR
  * entry: SPWREU
  * existence: SKPEUFPBS
@@ -30,14 +29,12 @@
  * extinct: SKPEUPBGT
  * fixes: TPEUFBGS
  * inform: TPH-F
- * inside: TPH-DZ
  * intuitive: TWAOUF
  * js, add semi-colon to the end of the line: SKWR*S/SKHROEUPB
  * happiness HAP/-PBS
  * misunderstanding: PHURPBGD
  * mountain: PH*PB
  * noticed: TPH-TSD
- * permission: PERPLGS
  * relationship: R*EUP
  * responsible: SPOP
  * responsibility: SPOBLT
