@@ -31,7 +31,8 @@
  * inform: TPH-F
  * intuitive: TWAOUF
  * js, add semi-colon to the end of the line: SKWR*S/SKHROEUPB
- * happiness HAP/-PBS
+ * happiness: HAP/-PBS
+ * measurable: PH*ERBL
  * misunderstanding: PHURPBGD
  * mountain: PH*PB
  * noticed: TPH-TSD
