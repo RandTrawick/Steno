@@ -52,6 +52,7 @@
  * more than: PH-RPB
  * no one: TPHOEUPB
  * of course: -FBG
+ * oh my god: OPLG
  * on this: THOPB
  * one that: TWHAUPB
  * or not: ORPBT
