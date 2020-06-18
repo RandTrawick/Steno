@@ -29,6 +29,8 @@
  * extinct: SKPEUPBGT
  * fixes: TPEUFBGS
  * inform: TPH-F
+ * interact: SPWRABGT
+ * interactivity: SPWRABGT/*EUFT
  * intuitive: TWAOUF
  * js, add semi-colon to the end of the line: SKWR*S/SKHROEUPB
  * happiness: HAP/-PBS
