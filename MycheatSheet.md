@@ -13,6 +13,7 @@
  * accident: STKEPB
  * altogether: HR/GT
  * area: KWRA*ER
+ * attributes: TR-BTS
  * automatic: AUPL/EUBG
  * automatically: AUPL/HREU
  * at least: THRAES
