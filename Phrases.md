@@ -37,6 +37,7 @@
  * I don't need: KWROEUPBD
  * I don't understand: KWROPBDZ
  * I have been: EUFB
+ * I have to: TOEUF
  * I want to: *EUPT
  * isn't the: STPH-T
  * if I'm: TPAOEUPL
