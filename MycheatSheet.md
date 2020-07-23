@@ -23,6 +23,7 @@
  * console.warn(): SKWARPB
  * completely: KPHRELT
  * configuration: KR-FRGS
+ * consistently: KAOPBLT
  * entire: SPWAOEUR
  * entry: SPWREU
  * existence: SKPEUFPBS
