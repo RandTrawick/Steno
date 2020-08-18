@@ -62,9 +62,9 @@
  * other side: O*ERDZ
  * rather than: RARPB
  * some of the: SOFPLT
- * that you can: THAUBG
+ * that we are: TWHAER
+ * that we can: TWHAEBG
  * that you had: THAUD
- * that you want: THAUPT
  * that you want to: THA*UPT
  * they wanted: THEPTD
  * things to: THOEUPBGS
