@@ -24,6 +24,7 @@
  * from you: TPRU
  * going to do: TKPW*G/TKPO
  * has been: HAB
+ * have felt: SR-FLT
  * he has: HEZ
  * how about you: PWHU
  * how about: HOUB
@@ -46,6 +47,7 @@
  * if you want to: TP*UPT
  * it's a: TAEUS
  * just to: STKWROUFT
+ * listened to: THROEUFPBD
  * look at: HRAOBGT
  * look at that: THRAOBGT
  * looks good to me: HR-PBLG
