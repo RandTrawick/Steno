@@ -2,13 +2,11 @@
 
  * HROEUR: lower next
  * HRO*EUR: lower next with no space before
- * HROEURD: lower last
  *  =>: KPRG
  * 13:00: #SBG, add BG to number for clock time
  * " (ending): KR-GS
  * " (leading): KW-GS
  * (add space): AFPS
- * {MODE:CAMEL}: K-BGS
  * {MODE: lower CPAP Lower lower}: KHRAO*ER
  * accident: STKEPB
  * altogether: HR/GT
@@ -16,9 +14,7 @@
  * attributes: TR-BTS
  * automatic: AUPL/EUBG
  * automatically: AUPL/HREU
- * at least: THRAES
  * caveat: KAF/KWRAT
- * Capitalize Last Word: KA*PD
  * combined: KPWAOEUPBD
  * console.warn(): SKWARPB
  * completely: KPHRELT
@@ -26,13 +22,14 @@
  * consistently: KAOPBLT
  * emergency: PH-RG
  * entire: SPWAOEUR
+ * external: SKPERPBL
  * entry: SPWREU
  * existence: SKPEUFPBS
  * explicitly: SPHREUFLT
  * extinct: SKPEUPBGT
- * fixes: TPEUFBGS
  * inform: TPH-F
  * interact: SPWRABGT
+ * internal: SPWERPBL
  * interactivity: SPWRABGT/*EUFT
  * intuitive: TWAOUF
  * js, add semi-colon to the end of the line: SKWR*S/SKHROEUPB
@@ -45,9 +42,7 @@
  * responsible: SPOP
  * responsibility: SPOBLT
  * responsive: SPO*F
- * troubleshooting: STHAOGT 
  * visualization: SREUFL/SAEUGS
-
 
 [Phrases](Phrases.md)  
 
