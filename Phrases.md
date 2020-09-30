@@ -37,6 +37,7 @@
  * I don't have: KWROF
  * I don't need: KWROEUPBD
  * I don't understand: KWROPBDZ
+ * if it is: TP-TS
  * I have been: EUFB
  * I have to: TOEUF
  * I want to: *EUPT
@@ -60,7 +61,6 @@
  * one that: TWHAUPB
  * or not: ORPBT
  * other side: O*ERDZ
- * rather than: RARPB
  * some of the: SOFPLT
  * that I'm: THAEUPL
  * that we are: TWHAER
