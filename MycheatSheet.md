@@ -2,12 +2,10 @@
 
  * HROEUR: lower next
  * HRO*EUR: lower next with no space before
- *  =>: KPRG
+ * []: PWR-BGTS
  * 13:00: #SBG, add BG to number for clock time
  * " (ending): KR-GS
- * " (leading): KW-GS
  * (add space): AFPS
- * {MODE: lower CPAP Lower lower}: KHRAO*ER
  * accident: STKEPB
  * altogether: HR/GT
  * area: KWRA*ER
@@ -22,7 +20,7 @@
  * consistently: KAOPBLT
  * emergency: PH-RG
  * entire: SPWAOEUR
- * external: SKPERPBL
+ * external: KPERPBL
  * entry: SPWREU
  * existence: SKPEUFPBS
  * explicitly: SPHREUFLT
