@@ -10,6 +10,7 @@
  * altogether: HR/GT
  * area: KWRA*ER
  * attributes: TR-BTS
+ * authenticate: THAUBGT
  * automatic: AUPL/EUBG
  * automatically: AUPL/HREU
  * caveat: KAF/KWRAT
@@ -20,22 +21,20 @@
  * consistently: KAOPBLT
  * emergency: PH-RG
  * entire: SPWAOEUR
- * external: KPERPBL
  * entry: SPWREU
  * existence: SKPEUFPBS
  * explicitly: SPHREUFLT
  * extinct: SKPEUPBGT
  * inform: TPH-F
  * interact: SPWRABGT
- * internal: SPWERPBL
  * interactivity: SPWRABGT/*EUFT
  * intuitive: TWAOUF
  * js, add semi-colon to the end of the line: SKWR*S/SKHROEUPB
- * happiness: HAP/-PBS
  * measurable: PH*ERBL
  * misunderstanding: PHURPBGD
  * mountain: PH*PB
  * noticed: TPH-TSD
+ * platform: PHRORPL
  * relationship: R*EUP
  * responsible: SPOP
  * responsibility: SPOBLT
