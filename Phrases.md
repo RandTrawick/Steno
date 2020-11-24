@@ -48,6 +48,7 @@
  * if you want to: TP*UPT
  * it's a: TAEUS
  * just to: STKWROUFT
+ * let's do: TKHROETS
  * listened to: THROEUFPBD
  * look at: HRAOBGT
  * look at that: THRAOBGT
