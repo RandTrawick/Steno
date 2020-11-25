@@ -11,13 +11,13 @@
  * anyone else: TPHEUPBLS
  * as well as: SW-LS
  * be the: -BT
+ * can you think: KWUPBG
  * correct me if I'm wrong: KROPBG
  * did not: TK-PBLT
  * don't have: STKROEPBT
  * do I have: TKOEUF
  * do you know: TKWAOUPB
  * do you mean: TKOUPL
- * do you think: TKWUPBG
  * do you see: TOUZ
  * except that: TKPHAEPT
  * even if: TPAOEPB
