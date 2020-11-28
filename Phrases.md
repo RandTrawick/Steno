@@ -37,15 +37,14 @@
  * I don't have: KWROF
  * I don't need: KWROEUPBD
  * I don't understand: KWROPBDZ
- * if it is: TP-TS
+ * if I'm: TPAOEUPL
+ * if it is: TP-TS 
+ * if you remember: TPURPL
+ * if you want to: TP*UPT
  * I have been: EUFB
  * I have to: TOEUF
  * I want to: *EUPT
- * isn't the: STPH-T
- * if I'm: TPAOEUPL
- * if I can: TPAOEUBG
- * if you remember: TPURPL
- * if you want to: TP*UPT
+ * isn't that correct: STPHABGT
  * it's a: TAEUS
  * just to: STKWROUFT
  * let's do: TKHROETS
