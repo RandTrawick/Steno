@@ -1,6 +1,5 @@
 # phrases so that I can practice
 
- * a lot of: HROEFLT
  * able to: TAOEUBL
  * all of this: AUL/TH-F
  * and I'm: AOEUPBLD
@@ -43,9 +42,9 @@
  * if you want to: TP*UPT
  * I have been: EUFB
  * I have to: TOEUF
- * I want to: *EUPT
  * isn't that correct: STPHABGT
  * it's a: TAEUS
+ * it should be: STHOB
  * just to: STKWROUFT
  * let's do: TKHROETS
  * listened to: THROEUFPBD
@@ -62,9 +61,7 @@
  * or not: ORPBT
  * other side: O*ERDZ
  * some of the: SOFPLT
- * that I'm: THAEUPL
  * that we are: TWHAER
- * that we can: TWHAEBG
  * that will be: THABL
  * that you had: THAUD
  * that you want to: THA*UPT
