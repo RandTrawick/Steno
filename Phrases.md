@@ -73,10 +73,9 @@
  * to the best of my knowledge: TEUPBLG
  * to you: TWU
  * use it: TAOUS
- * want to: WAOEPBT
- * want to have: WAOEPBT/SR
+ * used for: TPAOUFRD
  * we don't know: WOEPB
- * where I can: WR*EUBG
+ * where I can: W*REUBG
  * where the: WRT
  * where you would: WURLD
  * which has: KH-Z
