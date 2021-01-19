@@ -34,6 +34,7 @@
  * misunderstanding: PHURPBGD
  * mountain: PH*PB
  * noticed: TPH-TSD
+ * opportunity: TUPBT
  * platform: PHRORPL
  * relationship: R*EUP
  * responsible: SPOP
