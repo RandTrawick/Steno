@@ -19,6 +19,7 @@
  * completely: KPHRELT
  * configuration: KR-FRGS
  * consistently: KAOPBLT
+ * demonstrate: STKRAEUT
  * emergency: PH-RG
  * entire: SPWAOEUR
  * entry: SPWREU
