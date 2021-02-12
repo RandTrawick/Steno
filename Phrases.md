@@ -51,10 +51,9 @@
  * look at: HRAOBGT
  * look at that: THRAOBGT
  * looks good to me: HR-PBLG
- * might be: PHAOEUB
+ * makes sense: SKPHEPBS
  * more than: PH-RPB
  * no one: TPHOEUPB
- * of course: -FBG
  * oh my god: OPLG
  * on this: THOPB
  * one that: TWHAUPB
