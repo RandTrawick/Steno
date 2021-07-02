@@ -27,7 +27,7 @@
 "PHARBG/TKO*UPB": "Markdown",
 "PWHR*T": "{^}+ {-|}",
 "PWHR-T": "{^}- {-|}",
-"R*EFS": "refs:{#Return}{^*} t{#backspace}",
+"R*EFS": "{>}refs:{#Return}{^*} t{#backspace}",
 "SKH*FGS": "{^}```{^}",
 "SKH-FGS": "{^}```{^}",
 "SKPH": "{\\^}",
