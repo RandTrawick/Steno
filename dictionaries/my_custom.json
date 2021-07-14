@@ -33,6 +33,7 @@
   "OEP/-FP": "open .{#Return}",
   "OEP/-P": "open .{#Return}",
   "OEP/-P-P": "open .{#Return}",
+  "OEFP": "open .{#Return}",
   "ORBGS": "Ok,",
   "P*UG": "{^}pug",
   "-FP/PUG": "{^}.pug",
