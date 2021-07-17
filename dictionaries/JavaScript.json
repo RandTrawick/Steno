@@ -39,6 +39,7 @@
   "SKWR*S/SKWR-FPB": "json",
   "SKWR*S/SKPORT": "module.exports = newy;{#Left}",
   "SKWR*S/SKREUB": "{^}describe('yourFunction', () => \\{\\});{#Left Left Left Left Left Left Left Left Left Left Left Left Left Left Left Left Left Left}",
+  "SKWR*S/SPHREUT": "{^}.split(){#Left}",
   "SKWR*S/STREUPBG": "{^}JSON.stringify(){#Left}",
   "SKWR*S/STR*EUPBG": "{^}console.log(JSON.stringify());{#Left Left Left}",
   "SKWR*S/TAOEUP": "typeof",
