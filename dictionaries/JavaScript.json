@@ -48,6 +48,7 @@
   "SKWR*S/TH": "{^}this.{^}",
   "SKWR*S/TH/STAEUT": "{^}this.state.{^}",
   "SKWR*S/THEPB": "{^}.then((data) =>\\{\ndebugger;{#Down}.catch((err) => \\{\nconsole.log(err);",
+  "SKWR*S/TKEUPBGS": "{^}.indexOf(){#Left}",
   "SKWR*S/TKOPL": "{^}$(() => \\{{#Return}; // old school DOM ready {#Left}",
   "SKWR*S/TO/TPEUFD": "{^}.toFixed({#Right}{^};{#Left Left}",
   "SKWR*S/TO/TPHUPL": "{^}.parseFloat({#Right}{^};{#Left Left}",
