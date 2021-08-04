@@ -85,5 +85,5 @@
   "STREUPBG/TPEU": "stringify",
   "STREUPBG/TPAOEU": "stringify",
   "TKPWRAF/KW*L": "GraphQL",
-  "TPH*PL/TK*EF": "--save-dev",
+  "TPH*PL/TK*EF": "--save-dev"
 }
