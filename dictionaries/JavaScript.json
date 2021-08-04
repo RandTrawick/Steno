@@ -49,7 +49,10 @@
   "SKWR*S/TH/STAEUT": "{^}this.state.{^}",
   "SKWR*S/THEPB": "{^}.then((data) =>\\{\ndebugger;{#Down}.catch((err) => \\{\nconsole.log(err);",
   "SKWR*S/TKEUPBGS": "{^}.indexOf(){#Left}",
+  "SKWR*S/TKPEUFT": "{^}.toExist()",
+  "SKWR*S/TKPU": "{^}.toExclude({^}",
   "SKWR*S/TKOPL": "{^}$(() => \\{{#Return}; // old school DOM ready {#Left}",
+  "SKWR*S/TKWAUL": "{^}.toEqual({^}",
   "SKWR*S/TO/TPEUFD": "{^}.toFixed({#Right}{^};{#Left Left}",
   "SKWR*S/TO/TPHUPL": "{^}.parseFloat({#Right}{^};{#Left Left}",
   "SKWR*S/TP": "{^}if () \\{\n{#Up}{#Right Right Right}",
@@ -76,5 +79,5 @@
   "STREUPBG/TPEU": "stringify",
   "STREUPBG/TPAOEU": "stringify",
   "TKPWRAF/KW*L": "GraphQL",
-  "TPH*PL/TK*EF": "--save-dev"
+  "TPH*PL/TK*EF": "--save-dev",
 }
