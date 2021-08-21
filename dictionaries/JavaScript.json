@@ -7,6 +7,7 @@
   "SKWR*S": "{^}js",
   "SKWR*S/AOEFP": "{^}.forEach((item) => \\{\ndebugger;{#Down};",
   "SKWR*S/A/WAEUT": "const getSiteMap = async () => \\{\nconst axiosData = await axios.get(URL).then(response => \\{",
+  "SKWR*S/ELS": "{^}else \\{\n}{^}",
   "SKWR*S/EUPBT": "{^}$\\{\\}{#Left}{^}",
   "SKWR*S/S/TPHUPL": "{^}Number.isInteger(){#Left}{^}",
   "SKWR*S/HRAOP": "const loopArray = [1,2,3,4,5]{#Return}{#Return}for (let i = 0, x = loopArray.length; i < x; i += 1)\\{{#Return}// console.log(loopArray[i]);{#Return}loopArray[i];{#Return}console.log(loopArray[i]);{#Return}\\}{#Return}{#Up Up Up}",
