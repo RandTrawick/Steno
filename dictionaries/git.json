@@ -8,7 +8,7 @@
 "TKPWEUT/AD": "git add :/ && git add -u :/{#Return} git commit -m \"\"{#Left}",
 "TKPWEUT/EUPB/T": "{>}git init",
 "TKPWEUT/H*UB": "GitHub",
-"TKPWEUT/HROG": "git log",
+"TKPWEUT/HROG": "git log{#Return}",
 "TKPWEUT/HUB": "github",
 "TKPWEUT/HUPB": "Github",
 "TKPWEUT/KHEBGT": "{>}git checkout",
