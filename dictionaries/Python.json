@@ -1,7 +1,7 @@
 {
   "KWR-P/ELS": "{^}{>}elif:{#Left}",
   "KWR-P/EUPB/EUT": "{^}__init__.py",
-  "KWR-P/EUPBT": "{^}\\{}",
+  "KWR-P/EUPBT": "{^}\\{\\}{#Left}",
   "KWR-P/TP": "{^}{>}if:{#Left}",
   "KWR-P/PREUPBT": "{^}{>}print(){#Left}",
   "KWR-P/SHO": "{^}# it should"
