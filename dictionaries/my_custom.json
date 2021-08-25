@@ -90,7 +90,7 @@
   "STPAOE": "see if",
   "STRO*G": "having to",
   "SUB/SAOEUT": "subsite",
-  "S*UB/PROPBL": "{^}<project>",
+  "S*UB/PROPBL": "{^}<project>,-*node_modules/*,",
   "TAET/SET": "dataset",
   "THABL": "that will be",
   "TERN/AER": "ternary",
