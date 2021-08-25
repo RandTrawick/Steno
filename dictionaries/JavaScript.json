@@ -63,7 +63,7 @@
   "SKWR*S/TKWAUL": "{^}.toEqual({^}",
   "SKWR*S/TO/TPEUFD": "{^}.toFixed({#Right}{^};{#Left Left}",
   "SKWR*S/TO/TPHUPL": "{^}.parseFloat({#Right}{^};{#Left Left}",
-  "SKWR*S/TP": "{^}if () \\{\n{#Up}{#Right Right Right}",
+  "SKWR*S/TP": "{^}if () \\{\n{#Up}{#Right Right}",
   "SKWR*S/TPEUPBD": "{^}.find();{#Left Left}",
   "SKWR*S/TP*": "{^}if () \\{\\} else \\{\\}{#Up}{#Right Right Right Right Right}",
   "SKWR*S/TPEURLT": "{^}.filter((array) => array.value === filterValue);{#Left Left Control_L(Shift_L(Left))}",
