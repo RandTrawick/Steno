@@ -70,7 +70,7 @@
   "SKWR*S/TPEURLT": "{^}.filter((array) => array.value === filterValue);{#Left Left Control_L(Shift_L(Left))}",
   "SKWR*S/TPHU": "{^}const newy = () => {}\\{{#Left Left Left Left Left Left Left Left Left Left Left}}",
   "SKWR*S/TPOR": "{^}for (let item of items)\\{\n        ",
-  "SKWR*S/TPOR/TPH": "{MODE:RESET}{#Down Backspace Backspace Backspace}{^}for (let item in items)\\{\n",
+  "SKWR*S/TPOR/TPH": "{#Down Backspace Backspace Backspace}{^}for (let item in items)\\{\n",
   "SKWR*S/TPUPBGS": "{^}()\\{}{#Return}{#Down};{#Left Left Left}{#Backspace}{#Up}",
   "SKWR*S/TREU": "{^}try \\{\n {#Down} catch (e) \\{\n{#Up Up}",
   "SKWR*S/WHAOEUL": "{^}while (condition) \\{\n{#Up}{#Right Right Right Right Right Control_L(Shift_L(Right))}",
