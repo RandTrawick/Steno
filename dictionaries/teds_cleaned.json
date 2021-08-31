@@ -559,7 +559,6 @@
 "HEUR/TKPWAPB/TPHA": "hiragana",
 "HEURPBT": "hinter",
 "HEUS/STOERBG": "historic",
-"HO*L/HO*L": "Hollywoo Stars and Celebrities: What Do They Know? Do They Know Things?? Let's Find Out!",
 "HO*UBT": "how about you",
 "HOB/KWREU/EUFT": "hobbyist",
 "HOE/KAEU": "hhhhokay",
@@ -3943,7 +3942,6 @@
 "TPHOPBT/-LS": "nonetheless",
 "TPHORBLT": "in order to be able to",
 "TPHOS/TALG": "nostalgia",
-"TPHOT/A/HROUD/TO/STPHAOP/OPB/PHE/HA/HA": "nothing",
 "TPHOUT": "timeout",
 "TPHR*": "{#Control_L(Alt_L(q))}",
 "TPHR*UBGS": "Flux",
@@ -4067,7 +4065,6 @@
 "TREUG/RE": "tigre",
 "TREUP/KWREU": "trippy",
 "TRO*EL": "{MODE:SET_SPACE:😁}",
-"TRO*ELS": "{MODE:SET_SPACE: (Vinni is interested in the next word) }",
 "TRO*PB": "Tron",
 "TROEPB": "Tyrone",
 "TROPBT/KWRO": "Toronto",
@@ -4255,7 +4252,6 @@
 "WOERPL": "worrisome",
 "WOEU": "would I",
 "WOEUL": "Willie",
-"WOEUPBG": "William the Conqueror",
 "WOF": "wolf",
 "WOFS": "wolves",
 "WOLD": "withhold",
@@ -4274,6 +4270,5 @@
 "WREUS": "writes",
 "WROE/TPHA": "Wrona",
 "WRUR": "where you are",
-"WUFPBT/-T": "one of the",
-"WUPB/TRAOE/HEUL": "One Tree Hill"
+"WUFPBT/-T": "one of the"
 }
