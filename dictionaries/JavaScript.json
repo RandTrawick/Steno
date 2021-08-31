@@ -10,7 +10,7 @@
   "SKWR*S/ELS": "else \\{\n}{^}",
   "SKWR*S/EUPBT": "{^}$\\{\\}{#Left}{^}",
   "SKWR*S/S/TPHUPL": "{^}Number.isInteger(){#Left}{^}",
-  "SKWR*S/HRAOP": "const loopArray = [1,2,3,4,5]{#Return}{#Return}for (let i = 0, x = loopArray.length; i < x; i += 1)\\{{#Return}loopArray[i];{#Up Up Up Left Left Left}",
+  "SKWR*S/HRAOP": "{^}{>}const loopArray = [1,2,3,4,5]{#Return}{#Return}for (let i = 0, x = loopArray.length; i < x; i += 1)\\{{#Return}loopArray[i];{#Up Up Up Left Left Left}",
   "SKWR*S/HREPBG": "{^}.length",
   "SKWR*S/HRO*G": "{^}console.log();{#Left Left}{^}",
   "SKWR*S/HROG": "{^}console.log(\"d\");\nconsole.log(d);{#Up}{#Left}{#Control_L(Shift_L(Left))}{^}",
