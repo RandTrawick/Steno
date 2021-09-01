@@ -5,6 +5,7 @@
   "KWALS/KWALS/KWALS": "===",
   "SA*F": "--save",
   "SKWR*S": "{^}js",
+  "SKWR*S/AD": "{^}.add();{#Left Left}",
   "SKWR*S/AOEFP": "{^}.forEach((item) => \\{\ndebugger;{#Down};",
   "SKWR*S/A/WAEUT": "const getSiteMap = async () => \\{\nconst axiosData = await axios.get(URL).then(response => \\{",
   "SKWR*S/ELS": "else \\{\n}{^}",
