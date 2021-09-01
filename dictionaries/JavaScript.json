@@ -23,6 +23,7 @@
   "SKWR*S/KP-PT": "expect().toEqual();{#Left Left Left Left Left Left Left Left Left Left Left Left}",
   "SKWR*S/KW*ER": "{^}$(''){#Left Left}",
   "SKWR*S/SKWR": "{^}$(''){#Left Left}",
+  "SKWR*S/O*B/SPWREUS": "{^}  Object.entries(childNode).forEach((entry) => \\{\nconst key = entry[0];\nconst value = entry[1];{#Down};{#Up}",
   "SKWR*S/OPB": "{^}.on('click','anyUnBoundSelector',(e) => \\{{#Return}debugger;{#Down};{#Up Up}{#Right Right Right Right Right Right Right Right Right Right}",
   "SKWR*S/PARS": "{^}JSON.parse(){#Left}",
   "SKWR*S/PHAP": "{^}.map((item) => item + 't');",
