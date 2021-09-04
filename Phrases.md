@@ -44,6 +44,7 @@
  * I have to: TOEUF
  * isn't that correct: STPHABGT
  * it's a: TAEUS
+ * it will be: THR*B
  * it should be: STHOB
  * just to: STKWROUFT
  * let's do: TKHROETS
