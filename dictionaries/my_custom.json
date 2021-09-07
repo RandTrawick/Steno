@@ -79,6 +79,7 @@
   "SKW-LZ": "sequelize",
   "SKW-P": "{#command(left)}{delete}",
   "SO*ERL": "solar",
+  "SORBLT": "sortable",
   "SPHROER": "{>}explorer .{#Return}",
   "SPWRABGT/*EUFT": "interactivity",
   "SPWREUS": "entries",
