@@ -67,6 +67,7 @@
   "PWR-*BGTS": "[]{#Left}",
   "R*EF": "{>}ref",
   "R*R": "{#Return}{^}}{-|}",
+  "RA*ED/PHE": "{^}{>}readme.md",
   "RAELSZ": "realise",
   "RE/AOUS/ABLT": "reusability",
   "RE/AOUS/AEUBLT": "reusability",
