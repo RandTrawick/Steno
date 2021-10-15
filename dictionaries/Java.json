@@ -1,3 +1,4 @@
 {
-  "SKWRA*F/PREUPBT": "{^}System.out.println();{#Left Left}"
+  "SKWRA*F/PREUPBT": "{^}System.out.println();{#Left Left}",
+  "SKWRA*F/HRAOP": "{^}String arr[] = \\{\"1\",\"2\",\"3\"\\};{#Return}for (String str : arr){#Return}\\{{#Return}System.out.println(str);{#Up Up Up Left Left Left}"
 }
