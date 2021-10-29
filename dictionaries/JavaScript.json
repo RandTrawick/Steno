@@ -62,7 +62,7 @@
   "SKWR*S/SW-BS": "{^...}",
   "SKWR*S/TAOEUP": "typeof",
   "SKWR*S/TEFT": "{^}{>}test('', () => \\{\n{#Down};{#Left Backspace Up Up Right Right Right Right}{^}",
-  "SKWR*S/TERPB": "{>}stringy ? stringy.length > 0 : null;{#Left Left Left Left Left Left Left Left Left Left Left Left Left Left Left Left Left Left Left Left Left Left Left Left Left Left Left Left Left Left Left}",
+  "SKWR*S/TERPB": "{>}stringy ? stringy.length > 0 : false;{#Left Left Left Left Left Left Left Left Left Left Left Left Left Left Left Left Left Left Left Left Left Left Left Left Left Left Left Left Left Left Left}",
   "SKWR*S/TH": "{^}this.{^}",
   "SKWR*S/TH/STAEUT": "{^}this.state.{^}",
   "SKWR*S/THEPB": "{^}.then((data) =>\\{\ndebugger;{#Down}.catch((err) => \\{\nconsole.log(err);",
