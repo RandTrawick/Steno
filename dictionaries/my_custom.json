@@ -39,6 +39,7 @@
   "ORBGS": "Ok,",
   "P*UG": "{^}pug",
   "-FP/PUG": "{^}.pug",
+  "PA*S/KA*L": "{MODE:SET_SPACE:}{MODE:TITLE}",
   "PAEUPBLT": "page layout",
   "PAEUPBLGT": "page layout",
   "PAEUPBLG/TPH-GS": "pagination",
