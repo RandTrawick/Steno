@@ -23,7 +23,7 @@
   "SKWR*S/HROG": "{^}console.log(\"d\");\nconsole.log(d);{#Up}{#Left}{#Control_L(Shift_L(Left))}{^}",
   "SKWR*S/K-FL": "{^}console.log();{#Left Left}",
   "SKWR*S/K-FPL": "{^}console.log('d');{#Return}{^}console.log(d);{#Up Left Shift_L(Left)}",
-  "SKWR*S/KAEUS": "let caseOnThis = '';{#Return}switch (caseOnThis) \\{{#Return}case 1:{#Return}\\{{#Return}// this.hello;{#Return}break;{#Down}case 2:{#Return}\\{{#Return}// stacked case, with fall through;{#Return}{#Down} default:{#Return}\\{{#Return}// this is the same as case else;{#Return};",
+  "SKWR*S/KAEUS": "let caseOnThis = '';{#Return}switch (caseOnThis) \\{{#Return}case 1:{#Return}\\{{#Return}break;{#Down}case 2:{#Return}\\{{#Return}break;{#Down}default:{#Return}\\{",
   "SKWR*S/KHREUBG": "{^}.click((e) => \\{{#Return}console.log('you clicked');{#Down};{#Up}",
   "SKWR*S/KHRUS": "{^}.includes();{#Left Left}",
   "SKWR*S/KOPLT": "/////////////////////////////\n// comment //\n/////////////////////////////{#Up Up}{#Right Right Right} ",
