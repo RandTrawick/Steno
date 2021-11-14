@@ -8,7 +8,7 @@
   "PWABG/PWABG": "bak",
   "PWAFPB": "Banff",
   "HAEU": "{^}Hey",
-  "HAO*EPLT/TR-BT": "{>}=\"",
+  "HAO*EPLT/TR-BT": "{^}=\"{^}{>}",
   "HOER": "{-|}how are you?",
   "HOEUPT": "{^}https://{^}",
   "HO*EUPT": "{^}http://{^}",
