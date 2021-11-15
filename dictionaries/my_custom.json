@@ -13,6 +13,8 @@
   "HAO*EPLT/EUD": "id=\"{^}{>}",
   "HAO*EPLT/KHRAS": "class=\"{^}{>}",
   "HAO*EPLT/TR-BT": "{^}=\"{^}{>}",
+  "HELSD": "headless",
+  "HED/LS": "headless",
   "HOER": "{-|}how are you?",
   "HOEUPT": "{^}https://{^}",
   "HO*EUPT": "{^}http://{^}",
