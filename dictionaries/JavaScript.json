@@ -5,6 +5,7 @@
   "KWALS/KWALS/KWALS": "===",
   "RAO*EBGT/KHRAS": "{^}className=\"\"{#Left}",
   "RAO*EBGT/STAEUT": "this.state.{^}{>}",
+  "STHAEUT": "this.state.{^}{>}",
   "SA*F": "--save",
   "SKWR*S": "{^}js",
   "SKWR*S/-LD": "JSON-LD",
