@@ -1,4 +1,5 @@
 {
+  "SKWRA*F/A/RAEU": "{^}ArrayList<String> theArray = new ArrayList<String>();{#Return}{^}theArray.add(\"item1\");{#Up}",
   "SKWRA*F/ROEUR": "{^}[ERROR]",
   "SKWRA*F/RO*ER": "{^}[ERROR]",
   "SKWRA*F/PREUPBT": "{^}System.out.println();{#Left Left}",
