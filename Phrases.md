@@ -8,6 +8,7 @@
  * and I said: SKPEUBS
  * are not: R-PBLT
  * anyone else: TPHEUPBLS
+ * as soon as possible: STPHOP
  * as well as: SW-LS
  * be the: -BT
  * can you think: KWUPBG
