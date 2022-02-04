@@ -5,5 +5,6 @@
   "KWR-P/EUPBT": "{^}\\{\\}{#Left}",
   "KWR-P/TP": "{^}{>}if:{#Left}",
   "KWR-P/PREUPBT": "{^}{>}print(){#Left}",
-  "KWR-P/SHO": "{^}# it should"
+  "KWR-P/SHO": "{^}# it should",
+  "KWR-P/TREU": "{^}try:\n\nexcept:\nprint(\"some error\"){#Up Up Tab}"
 }
