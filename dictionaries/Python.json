@@ -1,5 +1,5 @@
 {
-  "KWR-P/ELS/TP": "{^}{>}elif",
+  "KWR-P/ELS/TP": "{#Right}{#Right}{^}{>}if:{#Return}",
   "KWR-P/ELS": "{^}{>}else:{#Return}",
   "KWR-P/EUPB/EUT": "{^}__init__.py",
   "KWR-P/EUPBT": "{^}\\{\\}{#Left}",
