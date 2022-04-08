@@ -68,6 +68,7 @@
   "SKWR*S/STREUPBG": "{^}JSON.stringify(){#Left}",
   "SKWR*S/STR*EUPBG": "{^}console.log(JSON.stringify());{#Left Left Left}",
   "SKWR*S/SW-BS": "{^...}",
+  "SKWR*S/T": "{^}{>}it('', () => \\{\n{#Down};{#Left Backspace Up Up Right Right Right Right}{^}",
   "SKWR*S/TAOEUP": "{>}typeof",
   "SKWR*S/TEFT": "{^}{>}test('', () => \\{\n{#Down};{#Left Backspace Up Up Right Right Right Right}{^}",
   "SKWR*S/TERPB": "{>}stringy ? stringy.length > 0 : false;{#Left Left Left Left Left Left Left Left Left Left Left Left Left Left Left Left Left Left Left Left Left Left Left Left Left Left Left Left Left Left Left}",
