@@ -20,6 +20,7 @@
  * configuration: KR-FRGS
  * consistently: KAOPBLT
  * demonstrate: STKRAEUT
+ * depreciated: TKPRAOERBTD
  * emergency: PH-RG
  * entire: SPWAOEUR
  * entry: SPWREU
@@ -38,8 +39,6 @@
  * opportunity: TUPBT
  * platform: PHRORPL
  * relationship: R*EUP
- * responsible: SPOP
- * responsibility: SPOBLT
  * responsive: SPO*F
  * visualization: SREUFL/SAEUGS
 
