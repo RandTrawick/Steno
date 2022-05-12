@@ -14,6 +14,7 @@
   "SKWR*S/AD": "{^}.add();{#Left Left}",
   "SKWR*S/AD/KHRAS": "{^}.addddClass(){#Left}",
   "SKWR*S/AOEFP": "{^}.forEach((item) => \\{\ndebugger;{#Down};",
+  "SKWR*S/AT": "{^}.at();{#Left}",
   "SKWR*S/A/WAEUT": "const awaitData = async () => \\{\nconst fetchedData = await axios.get(URL);{#Super_L(Left) Right Right Right Right Right Right Right}",
   "SKWR*S/KAUPB/KAT": "{^}.concat();{#Left Left}",
   "SKWR*S/KOPB/KAT": "{^}.concat();{#Left Left}",
