@@ -91,6 +91,7 @@
   "RE/AOUS/ABLT": "reusability",
   "RE/AOUS/AEUBLT": "reusability",
   "RURS/HREU": "recursively",
+  "SA*S/RO*ER": "$test: ;{#Return} @error: $test;{#Up Left}",
   "SEUT/REUBGS": "citrix",
   "SHAEURBL": "shareable",
   "SHOEUF": "should I have",
