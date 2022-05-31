@@ -78,6 +78,8 @@
   "PWARB/PHORPG": "{^}bash morning.bash{#Return}",
   "PWARB/PWEULD": "{^}./build{#Return}",
   "PWARB/PWHR": "{^}./build{#Return}",
+  "PWARB/PWHEULD/KPOEPBT": "{^}bash buildcomponent.bash{#Return}",
+  "PWARB/PWHR/KPOEPBT": "{^}bash buildcomponent.bash{#Return}",
   "PWARB/WAFP/KPOEPBT": "{^}bash watchcomponent.bash{#Return}",
   "PWARB/WAFP/SKWREFT": "{^}bash watchjest.bash{#Return}",
   "PWARB/WAFP/SHREPB": "{^}bash watchSeleniumTests.bash{#Return}",
