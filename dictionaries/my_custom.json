@@ -31,6 +31,8 @@
   "K*D": "{^}cd ..{#Return}",
   "KA": "{^}.ca",
   "KEGT/WAL": "contextual",
+  "KEGT/WAL/HREU": "contextually",
+  "KEGT/HREU": "contextually",
   "K*EGT": "kext",
   "KO*RZ": "cors",
   "KPH-D": "{^}{>}cmd",
