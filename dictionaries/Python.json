@@ -7,5 +7,6 @@
   "KWR-P/PREUPBT": "{^}{>}print(){#Left}",
   "KWR-P/SHO": "{^}# it should",
   "KWR-P/TREU": "{^}try:\n\nexcept:\nprint(\"some error\"){#Up Up Tab}",
-  "KWR-P/TP": "{^}{>}if:{#Left}"
+  "KWR-P/TP": "{^}{>}if:{#Left}",
+  "SPAO*EU/TKER": "Spyder"
 }
