@@ -85,6 +85,8 @@
   "SKWR*S/TH": "{^}this.{^}",
   "SKWR*S/TH/STAEUT": "{^}this.state.{^}",
   "SKWR*S/THEPB": "{^}.then((data) =>\\{\ndebugger;{#Down}.catch((err) => \\{\nconsole.log(err);",
+  "SKWR*S/THROE": "{^}throw new Error(",
+  "SKWR*S/THROU": "{^}throw new Error(",
   "SKWR*S/TKEUPBGS": "{^}.indexOf(){#Left}",
   "SKWR*S/TKPEUFT": "{^}.toExist()",
   "SKWR*S/TKPU": "{^}.toExclude({^}",
