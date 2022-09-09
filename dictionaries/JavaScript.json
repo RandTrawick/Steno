@@ -67,8 +67,6 @@
   "SKWR*S/SHOE": "{^}.show();",
   "SKWR*S/SHREBG/TOR": "{^}const container = document.querySelector('');{#Left Left Left}",
   "SKWR*S/SKHROEUPB": "{#command(right)}{;}",
-  "SKWR-FPB": "{>}json",
-  "SKWR*FPB": "JSON",
   "SKWR*S/SKHROG": "console.log({^}",
   "SKWR*S/SKPORT": "module.exports = newy;{#Left}",
   "SKWR*S/SKREUB": "{^}describe('yourFunction', () => \\{\\});{#Left Left Left Left Left Left Left Left Left Left Left Left Left Left Left Left Left Left}",
