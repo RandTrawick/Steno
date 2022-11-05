@@ -89,6 +89,7 @@
   "PWAFPB": "Banff",
   "PWARB": "{^}bash",
   "PWARB/AOEPBG": "{^}bash evening.bash{#Return}",
+  "PWARB/PHOD": "{^}bash mod.bash{#Return}",
   "PWARB/PHORPG": "{^}bash morning.bash{#Return}",
   "PWARB/PWEULD": "{^}./build{#Return}",
   "PWARB/PWHR": "{^}./build{#Return}",
