@@ -27,6 +27,8 @@
 "TKPWEUT/PURB/KR*R": "{^}{>}git push origin HEAD:refs/for/master",
 "TKPWEUT/PWRAFRPB/HR*EUS": "{^}{>}git branch --list{#Return}",
 "TKPWEUT/RE/PWAEUS": "{^}{>}git rebase",
+"TKPWEUT/R-BS": "{^}{>}git rebase",
+"TKPWEUT/R-BS/PUL": "{^}{>}git pull --rebase origin",
 "TKPWEUT/RE/PWAEUS/T-PB": "{^}{>}git rebase --continue",
 "TKPWEUT/RE/SET": "{^}{>}git reset --hard HEAD^",
 "TKPWEUT/TRABG": "{^}{>}git checkout --track origin/",
