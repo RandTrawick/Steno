@@ -34,6 +34,7 @@
 "TKPWEUT/RE/PWAEUS/T-PB": "{^}{>}git rebase --continue",
 "TKPWEUT/RE/SET": "{^}{>}git reset --hard HEAD^",
 "TKPWEUT/TRABG": "{^}{>}git checkout --track origin/",
+"TKPWEUT/TRA*BG": "{^}{>}git track",
 "TKPWEUT/ST*TS": "{^}{>}git status{#Return}",
 "TKPWEUT/STARB": "{^}{>}git stash",
 "TKPWEUT/STARB/HR*EUS": "{^}{>}git stash list --date=local{#Return}",
