@@ -128,5 +128,6 @@
   "STREUPBG/TPEU": "stringify",
   "STREUPBG/TPAOEU": "stringify",
   "TKPWRAF/KW*L": "GraphQL",
-  "TPH*PL/TK*EF": "--save-dev"
+  "TPH*PL/TK*EF": "--save-dev",
+  "TPHO*D/RE/PHOF": "rm -r node_modules;rm -r package-lock.json;{#Return}"
 }
