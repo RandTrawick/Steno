@@ -30,6 +30,7 @@
 "TKPWEUT/RE/PWAEUS": "{^}{>}git rebase",
 "TKPWEUT/R-BS": "{^}{>}git rebase",
 "TKPWEUT/R-BS/PUL": "{^}{>}git pull --rebase origin",
+"TKPWEUT/R-BS/PWORT": "{^}{>}git rebase --abort",
 "TKPWEUT/R-BS/T-PB": "{^}{>}git rebase --continue",
 "TKPWEUT/RE/PWAEUS/T-PB": "{^}{>}git rebase --continue",
 "TKPWEUT/RE/SET": "{^}{>}git reset --hard HEAD^",
