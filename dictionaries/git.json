@@ -22,6 +22,8 @@
 "TKPWEUT/KPHEUT/A/PHEPBD": "{^}{>}git commit --amend",
 "TKPWEUT/KR*R": "{^}{>}git push origin HEAD:refs/for/$(git rev-parse --abbrev-ref HEAD)",
 "TKPWEUT/KW": "{^}{>}git request-pull develop origin ",
+"TKPWEUT/PHERG/OURS": "{^}{>}git merge --no-ff -X ours ",
+"TKPWEUT/PHERG/THAERS": "{^}{>}git merge --no-ff -X theirs ",
 "TKPWEUT/PUL": "{^}{>}git pull",
 "TKPWEUT/PULD": "{^}{>}git clean -fd{#Return}git fetch --all{#Return}git pull --all{#Return}git submodule update --init --recursive{#Return}",
 "TKPWEUT/PURB": "{^}{>}git push{#Return}{#Control_L(v)}{#Return}",
