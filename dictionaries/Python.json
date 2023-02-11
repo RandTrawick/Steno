@@ -8,6 +8,7 @@
   "KWR-P/SEUS": "{^}{>}import sys",
   "KWR-P/SHO": "{^}# it should",
   "KWR-P/TAOEUP": "{^}{>}type(){#Left}",
+  "KWR-P/TKEF": "{^}{>}def ():{#Left Left Left}{^}{>}",
   "KWR-P/TREU": "{^}try:\n\nexcept:\nprint(\"some error\"){#Up Up Tab}",
   "KWR-P/TP": "{^}{>}if:{#Left}",
   "SPAO*EU/TKER": "Spyder"
