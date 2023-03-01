@@ -7,6 +7,6 @@
   "SKWRA*F/KWALS": "{^}.equals(){#Left}",
   "SKWRA*F/PREUPBT": "{^}System.out.println();{#Left Left}",
   "SKWRA*F/ROEUR": "{^}[ERROR]",
-  "SKWRA*F/RO*ER": "{^}String  errorMsg=e.getMessage();",
+  "SKWRA*F/RO*ER": "{^}String errorMsg = e.getMessage();",
   "SKWRA*F/TAOEUP": "{>}.getClass().getSimpleName();"
 }
