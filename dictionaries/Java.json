@@ -1,12 +1,13 @@
 {
   "SKWRA*F/A/RAEU": "{^}ArrayList<String> theArray = new ArrayList<String>();{#Return}{^}theArray.add(\"item1\");{#Up}",
+  "SKWRA*F/EUPBT": "{^}\" + + \"{#Left Left Left Left}",
   "SKWRA*F/HARB/PHAP": "{^}HashMap<String, String> hashie = new HashMap<String, String>();{#Return}{^}hashie.put(\"the key\",\"the value\");{#Return}{^}for (Map.Entry<String, String> item : hashie.entrySet()){#Return}{^}\\{{#Return}System.out.println(\"key: \" + item.getKey());{#Return}System.out.println(\"value:\" + item.getValue());{#Return}{^}}{#Up Up Up Up Up Up Right Right Right Right Right Right Right Right Right Right Right Right Right Right Right Right Right Right Right Right Right Right Right}",
   "SKWRA*F/HRAOP": "{^}String arr[] = \\{\"1\",\"2\",\"3\"\\};{#Return}{^}for (String str : arr){#Return}{^}\\{{#Return}System.out.println(str);",
-  "SKWRA*F/ROEUR": "{^}[ERROR]",
   "SKWRA*F/KOPB/KAT": "{^}\" + + \"{#Left Left Left Left}",
   "SKWRA*F/KWALS": "{^}.equals(){#Left}",
   "SKWRA*F/PREUPBT": "{^}System.out.println();{#Left Left}",
-  "SKWRA*F/ROEUR": "{^}[ERROR]",
   "SKWRA*F/RO*ER": "{^}String errorMsg = e.getMessage();",
+  "SKWRA*F/ROEUR": "{^}[ERROR]",
+  "SKWRA*F/ROEUR": "{^}[ERROR]",
   "SKWRA*F/TAOEUP": "{>}.getClass().getSimpleName();"
 }
