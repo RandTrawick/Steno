@@ -30,6 +30,7 @@
   "SKWR*S/KAUPB/KAT": "{^}.concat();{#Left Left}",
   "SKWR*S/KOPB/KAT": "{^}.concat();{#Left Left}",
   "SKWR*S/ELS": "else \\{\n}{^}",
+  "SKWR*S/EPB/KOED": "encodeURI();{#Left Left}",
   "SKWR*S/EUPBT": "{^}$\\{\\}{#Left}{^}",
   "SKWR*S/HAOEUD": "{^}.hide();",
   "SKWR*S/HAS": "{^}.has();{#Left Left}",
