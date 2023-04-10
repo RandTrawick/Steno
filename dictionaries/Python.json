@@ -6,12 +6,12 @@
   "KWR-P/EUPBT": "{^}\\{\\}{#Left}",
   "KWR-P/HRAOP": "{^}{>}for item in items:{#Left Left Left Left Left Left Left Left Left Left Left Left}",
   "KWR-P/PREUPBT": "{^}{>}print(){#Left}",
-  "KWR-P/SEUS": "sys",
   "KWR-P/SET": "{^}{>}setter = set(){#Left left left left left left left left left left left}",
+  "KWR-P/SEUS": "sys",
   "KWR-P/SHO": "{^}# it should",
   "KWR-P/TAOEUP": "{^}{>}type(){#Left}",
   "KWR-P/TKEF": "{^}{>}def ():{#Left Left Left}{^}{>}",
-  "KWR-P/TREU": "{^}try:\n\nexcept:\nprint(\"some error\"){#Up Up Tab}",
   "KWR-P/TP": "{^}{>}if:{#Left}",
+  "KWR-P/TREU": "{^}try:\n\nexcept:\nprint(\"some error\"){#Up Up Tab}",
   "SPAO*EU/TKER": "Spyder"
 }
