@@ -109,6 +109,7 @@
   "PWARB/WAFP/TKPWUG": "{^}bash watchDebug.bash{#Return}",
   "PWARBT": "{^}bash watchComponent.bash{#Return}",
   "PWR-*BGTS": "[]{#Left}",
+  "PWROURS/TPEU": "browserify",
   "R*EBG": "req",
   "R*EF": "{>}ref",
   "R*ES": "res",
