@@ -44,6 +44,7 @@
   "SKWR*S/K-FL": "{^}console.log();{#Left Left}",
   "SKWR*S/K-FPL": "{^}console.log('d');{#Return}{^}console.log(d);{#Up Left Shift_L(Left)}",
   "SKWR*S/KAEUS": "let switchOnThis = '';{#Return}switch (switchOnThis) \\{{#Return}case 1:\\{break;\\}case 2:\\{break;\\}default:\\{break;\\}",
+  "SKWR*S/KAFP": "{^}.catch((err) => \\{\ndebugger\nconsole.log(err);",
   "SKWR*S/KAUPB/KAT": "{^}.concat();{#Left Left}",
   "SKWR*S/KHRAS": "{^}{>}const ClassExpression = class NewClass \\{constructor(valueOne, valueTwo) \\{this.valueOne = valueOne;this.valueTwo = valueTwo;}}}",
   "SKWR*S/KHREUBG": "{^}.click((e) => \\{{#Return}console.log('you clicked');{#Down};{#Up}",
