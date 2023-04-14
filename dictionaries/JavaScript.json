@@ -68,6 +68,8 @@
   "SKWR*S/PW-F": "{^}beforeEach(() => \\{\\});{#Left Left Left}",
   "SKWR*S/PWRABG": "({})",
   "SKWR*S/RAOEUR": " = require('');{#Left Left Left}",
+  "SKWR*S/REG": "{^}{>}const matcher = new RegExp(\/^.*check.*$\/)\nmatcher.test(text){#Up}{#Right Right Right Right Right Right Right Right Right Right Right Right Right Right Right}",
+  "SKWR*S/R*EG": "{^}{>}\/^.*check.*$\/{#Left Left Left Left Left Left Left}",
   "SKWR*S/RE/PHOF/KHRAS": "{^}.removeClass();{#Left Left}",
   "SKWR*S/RE/PHRAEUS": "{^}.replace('','');{#Left Left Left Left Left Left}",
   "SKWR*S/S/A/RAEU": "{^}Array.isArray(){#Left}{^}",
