@@ -1,4 +1,7 @@
 {
+  "AO*US": "{>}use{^}{-|}",
+  "AO*US/REF": "{>}useRef",
+  "AO*US/R*EF": "{>}useRef",
   "K*FT": "{^}{>}const{*>}",
   "KW*LS": "===",
   "KWALS/KWALS": "==",
