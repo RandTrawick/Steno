@@ -15,6 +15,7 @@
   "AUPBS/S": "audiences",
   "EPB/KOED": "encode",
   "EPB/SKWREUPBGS": "nginx",
+  "EURPBLT/A*L": "incremental",
   "H*T": "html",
   "HA*FT": "hast",
   "HAEU": "{^}Hey",
