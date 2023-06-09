@@ -9,6 +9,7 @@
   "KWR-P/SET": "{^}{>}setter = set(){#Left left left left left left left left left left left}",
   "KWR-P/SEUS": "sys",
   "KWR-P/SHO": "{^}# it should",
+  "KWR-P/STREUPBG": "{^}{>}str(){#Left}",
   "KWR-P/TAOEUP": "{^}{>}type(){#Left}",
   "KWR-P/TKEF": "{^}{>}def ():{#Left Left Left}{^}{>}",
   "KWR-P/TP": "{^}{>}if:{#Left}",
