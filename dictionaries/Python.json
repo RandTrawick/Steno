@@ -14,5 +14,6 @@
   "KWR-P/TKEF": "{^}{>}def ():{#Left Left Left}{^}{>}",
   "KWR-P/TP": "{^}{>}if:{#Left}",
   "KWR-P/TREU": "{^}try:\n\nexcept:\nprint(\"some error\"){#Up Up Tab}",
+  "SPEU/TKER": "Spyder",
   "SPAO*EU/TKER": "Spyder"
 }
