@@ -126,6 +126,7 @@
   "RE/TPARBGT": "refactor",
   "REUG/HREU": "rigorously",
   "REUG/RUS/HREU": "rigorously",
+  "RO*EU": "{-|}ROI",
   "RURS/HREU": "recursively",
   "S*UB/PROPBL": "{^}<project>,-*node_modules/*,-*next/*",
   "S-FRB/HRET": "servlet",
