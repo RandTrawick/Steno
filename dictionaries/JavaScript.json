@@ -99,6 +99,7 @@
   "SKWR*S/SPRED": "...{^}",
   "SKWR*S/SPWREUS": "{^}Object.entries(childNode).forEach((entry) => \\{\nconst key = entry[0];\nconst value = entry[1];{#Down};{#Up}",
   "SKWR*S/STKRUFP": "{>}const  \\{\\} ={#Left Left Left}",
+  "SKWR*S/STKRUFP/EUPL/PORT": "{^}{>}import \\{\\} from 'd';{#Right Right Right Backspace Backspace Left Left Left Left Left Left Left Left Left Left Shift_L(Left)}{^}",
   "SKWR*S/STR*EUPBG": "{^}console.log(JSON.stringify());{#Left Left Left}",
   "SKWR*S/STREUPBG": "{^}JSON.stringify(){#Left}",
   "SKWR*S/SW-BS": "{^...}",
