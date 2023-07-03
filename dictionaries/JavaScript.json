@@ -6,6 +6,7 @@
   "KW*LS": "===",
   "KWALS/KWALS": "==",
   "KWALS/KWALS/KWALS": "===",
+  "PAO*EUPD": "||",
   "PWA*BL/TPEU": "babelify",
   "PWA*BL/TPEU/D": "babelifed",
   "PWA*BL/TPEUD": "babelifed",
