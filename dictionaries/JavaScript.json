@@ -65,7 +65,7 @@
   "SKWR*S/KPHEPBT": "/**{#Return * Return * / Up}{-|}",
   "SKWR*S/KW*ER": "{^}$(''){#Left Left}",
   "SKWR*S/O*B": "=\\{",
-  "SKWR*S/O*B/SPWREUS": "{^}  Object.entries(childNode).forEach((entry) => \\{\nconst key = entry[0];\nconst value = entry[1];{#Down};{#Up}",
+  "SKWR*S/O*B/SPWREUS": "{^}  Object.entries(yourObject).forEach(([key, value]) => \\{\n",
   "SKWR*S/OPB": "{^}.on('click','anyUnBoundSelector',(e) => \\{{#Return}debugger;{#Down};{#Up Up}{#Right Right Right Right Right Right Right Right Right Right}",
   "SKWR*S/PARS": "{^}JSON.parse(){#Left}",
   "SKWR*S/PHA*T": "Math.",
