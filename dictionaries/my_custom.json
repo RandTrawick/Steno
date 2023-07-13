@@ -130,6 +130,7 @@
   "RO*EU": "{-|}ROI",
   "RURS/HREU": "recursively",
   "S*RB": "zsh",
+  "S*RB/RUPB/SKREUPT": "zsh runScript.zsh{#Return}",
   "S*UB/PROPBL": "{^}<project>,-*node_modules/*,-*next/*",
   "S-FRB/HRET": "servlet",
   "SA*S/RO*ER": "$test: ;{#Return} @error: $test;{#Up Left}",
