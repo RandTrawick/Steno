@@ -81,6 +81,7 @@
   "SKWR*S/R*EG": "{^}{>}\/^.*check.*$\/{#Left Left Left Left Left Left Left}",
   "SKWR*S/RAED/TPAOEUL":  "{^}let data;\ntry \\{data = await fs.promises.readFile('./your.json', 'utf8');\n {#Down} catch (e) \\{\n{#Up Up}", 
   "SKWR*S/RAOEUR": " = require('');{#Left Left Left}",
+  "SKWR*S/RAOUS": "{^}{>}const results = array.reduce((acc, item) => \\{if (item === 'd') \\{acc.push(item);\\}return acc;\\}, []);",
   "SKWR*S/RE/PHOF/KHRAS": "{^}.removeClass();{#Left Left}",
   "SKWR*S/RE/PHRAEUS": "{^}.replace('','');{#Left Left Left Left Left Left}",
   "SKWR*S/REG": "{^}{>}const matcher = new RegExp(\/^.*check.*$\/)\nmatcher.test(text){#Up}{#Right Right Right Right Right Right Right Right Right Right Right Right Right Right Right}",
