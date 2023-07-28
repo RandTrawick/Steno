@@ -15,6 +15,7 @@
   "PWAB/EL/TPEUD": "babelifed",
   "RAO*EBGT/AOUS/EFBGT": "{^}{>}useEffect(() =>  \\{\\}, [onChange]);{#Left Left Left Left Left Left Left Left Left Left Left Left Left Left Left}",
   "RAO*EBGT/AOUS/PHOEUPL": "{^}{>}const memo = useMemo(() =>  \\{\\}, [onChange]);{#Left Left Left Left Left Left Left Left Left Left Left Left Left Left Left}",
+  "RAO*EBGT/AOUS/R*EF": "{^}{>}const d = useRef(null);{#Left Left Left Left Left Left Left Left Left Left Left Left Left Left Left Left Shift_L(Left)}",
   "RAO*EBGT/AOUS/STAEUT": "{^}{>}const[] = useState('');{#Left Left Left Left Left Left Left Left Left Left Left Left Left Left Left Left Left}",
   "RAO*EBGT/EFBG": "{^}{>}useEffect(() =>  \\{\\}, [onChange]);{#Left Left Left Left Left Left Left Left Left Left Left Left Left Left Left}",
   "RAO*EBGT/EFBGT": "{^}{>}useEffect(() =>  \\{\\}, [onChange]);{#Left Left Left Left Left Left Left Left Left Left Left Left Left Left Left}",
