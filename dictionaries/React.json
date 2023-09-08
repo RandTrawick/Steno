@@ -1,0 +1,19 @@
+{
+  "AO*US": "{>}use{^}{-|}",
+  "AO*US/REF": "{>}useRef",
+  "AO*US/R*EF": "{>}useRef",
+  "RAO*EBGT/AOUS/EFBGT": "{^}{>}useEffect(() =>  \\{\\}, [onChange]);{#Left Left Left Left Left Left Left Left Left Left Left Left Left Left Left}",
+  "RAO*EBGT/AOUS/PHOEUPL": "{^}{>}const memo = useMemo(() =>  \\{\\}, [onChange]);{#Left Left Left Left Left Left Left Left Left Left Left Left Left Left Left}",
+  "RAO*EBGT/AOUS/R*EF": "{^}{>}const d = useRef(null);{#Left Left Left Left Left Left Left Left Left Left Left Left Left Left Left Left Shift_L(Left)}",
+  "RAO*EBGT/AOUS/STAEUT": "{^}{>}const[] = useState('');{#Left Left Left Left Left Left Left Left Left Left Left Left Left Left Left Left Left}",
+  "RAO*EBGT/EFBG": "{^}{>}useEffect(() =>  \\{\\}, [onChange]);{#Left Left Left Left Left Left Left Left Left Left Left Left Left Left Left}",
+  "RAO*EBGT/EFBGT": "{^}{>}useEffect(() =>  \\{\\}, [onChange]);{#Left Left Left Left Left Left Left Left Left Left Left Left Left Left Left}",
+  "RAO*EBGT/KHRAS": "{^}className=\"\"{#Left}",
+  "RAO*EBGT/PHOEUPL": "{^}{>}const memo = useMemo(() =>  \\{\\}, [onChange]);{#Left Left Left Left Left Left Left Left Left Left Left Left Left Left Left}",
+  "RAO*EBGT/PROPS": "{^}{>}this.props.{^}{>}",
+  "RAO*EBGT/R*EF": "{^}useRef",
+  "RAO*EBGT/SET/STAEUT": "{^}{>}this.setState(\\{\ntheState: theState,{#Up Down Down};{#Up}",
+  "RAO*EBGT/STAEUT": "{^}{>}this.state.{^}{>}",
+  "RAO*EBGT/TERPB": "{>}\\{\n ? (\n) : (\n{#Up Up}{#Right Right Right Right Right Right Right Right Right}",
+  "RAO*EBGT/TPRAPLT": "{^}{>}<></>{#Left Left Left}"
+  }
