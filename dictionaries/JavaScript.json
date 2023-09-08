@@ -90,7 +90,7 @@
   "SKWR*S/S/A/RAEU": "{^}Array.isArray(){#Left}{^}",
   "SKWR*S/S/TPHUPL": "{^}Number.isInteger(){#Left}{^}",
   "SKWR*S/SET": "{^}{>}const setter = new Set();{#Left left left left left left left left left left left left left left}",
-  "SKWR*S/SHO": "{^}{>}it('', () => \\{\n{#Down};{#Left Backspace Up Up Right Right}",
+  "SKWR*S/SHO": "{^}{>}it('', () => \\{\n{#Down};{#Left Backspace Up Up Right Right}{^}should",
   "SKWR*S/SHOE": "{^}.show();",
   "SKWR*S/SHREBG/TOR": "{^}const container = document.querySelector('');{#Left Left Left}",
   "SKWR*S/SKHROEUPB": "{#command(right)}{;}",
