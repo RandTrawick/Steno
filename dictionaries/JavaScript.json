@@ -139,5 +139,6 @@
   "STREUPBG/TPEU": "stringify",
   "TKPWRAF/KW*L": "GraphQL",
   "TPH-PLT": "{>}npx",
-  "TPHO*D/RE/PHOF": "rm -r node_modules;rm -r package-lock.json;{#Return}"
+  "TPHO*D/RE/PHOF": "rm -r node_modules;rm -r package-lock.json;{#Return}",
+  "TR*BT": "attr"
 }
