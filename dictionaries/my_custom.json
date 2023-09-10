@@ -34,6 +34,8 @@
   "HOEUPT": "{^}https://{^}",
   "HOEUPT/TKPW-LG": "{^}https://www.google.com{^}",
   "HR-FRPBS": "alternatives",
+  "HR-PBLG": "large",
+  "HRAO*PBLG": "looks good to me",
   "HRAEUFT": "latest",
   "HRERPB/KWRA": "lerna",
   "HRO*ERD": "{*>}",

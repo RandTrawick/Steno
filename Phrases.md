@@ -52,7 +52,7 @@
  * listened to: THROEUFPBD
  * look at: HRAOBGT
  * look at that: THRAOBGT
- * looks good to me: HR-PBLG
+ * looks good to me: HRAO*PBLG
  * makes sense: SKPHEPBS
  * more than: PH-RPB
  * no one: TPHOEUPB
