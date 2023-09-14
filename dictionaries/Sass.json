@@ -11,5 +11,7 @@
   "P-BGS": "{&px}",
   "R*EPL": "rem",
   "S*PL": "sm",
-  "SA*S/KHRU": "{^}{>}@include"
+  "SA*S/EUPL/PORT": "{^}{>}@import'./';{#Left Left}",
+  "SA*S/KHRU": "{^}{>}@include ;{#Left}",
+  "SA*S/PHEUBGS/*EUPB": "{^}{>}@mixin \\{\n{#Up Right Right Right Right Right}"
 }
