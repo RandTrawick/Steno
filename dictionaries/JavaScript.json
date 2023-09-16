@@ -23,6 +23,7 @@
   "SKWR*S/AOEFP": "{^}.forEach((item) => \\{\ndebugger;{#Down};",
   "SKWR*S/AOURP": "{^}{>}.toUpperCase();",
   "SKWR*S/TO/AOURP": "{^}{>}.toUpperCase();",
+  "SKWR*S/TO/UP": "{^}{>}.toUpperCase();",
   "SKWR*S/AT": "{^}.at();{#Left Left}",
   "SKWR*S/ELS": "else \\{\n}{^}",
   "SKWR*S/EPB/KOED": "{^}{>}encodeURI();{#Left Left}",
