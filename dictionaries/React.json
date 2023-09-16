@@ -9,6 +9,7 @@
   "RAO*EBGT/EFBG": "{^}{>}useEffect(() =>  \\{\\}, [onChange]);{#Left Left Left Left Left Left Left Left Left Left Left Left Left Left Left}",
   "RAO*EBGT/EFBGT": "{^}{>}useEffect(() =>  \\{\\}, [onChange]);{#Left Left Left Left Left Left Left Left Left Left Left Left Left Left Left}",
   "RAO*EBGT/KHRAS": "{^}className=\"\"{#Left}",
+  "RAO*EBGT/PHAP": "{^}{>}\\{data.map((item, index) => (\n<li key=\\{index\\}>\\{item\\}</li>{#Up Super_L(Left) Right Right Super_L(d)}",
   "RAO*EBGT/PHOEUPL": "{^}{>}const memo = useMemo(() =>  \\{\\}, [onChange]);{#Left Left Left Left Left Left Left Left Left Left Left Left Left Left Left}",
   "RAO*EBGT/PROPS": "{^}{>}this.props.{^}{>}",
   "RAO*EBGT/R*EF": "{^}useRef",
