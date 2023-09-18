@@ -49,7 +49,7 @@
   "SKWR*S/KHRUS": "{^}.includes();{#Left Left}",
   "SKWR*S/KOPB/KAT": "{^}.concat();{#Left Left}",
   "SKWR*S/KP-PT": "expect().toEqual();{#Left Left Left Left Left Left Left Left Left Left Left Left}",
-  "SKWR*S/KPEBGT": "expect().toEqual();{#Left Left Left Left Left Left Left Left Left Left Left Left}",
+  "SKWR*S/SKPEBGT": "expect().toEqual();{#Left Left Left Left Left Left Left Left Left Left Left Left}",
   "SKWR*S/KPH*EPBT": "/////////////////////////////\n// comment //\n/////////////////////////////{#Up Up}{#Right Right Right Right Right Right Right} ",
   "SKWR*S/KPHEPBT": "/**{#Return * Return * / Up}{-|}",
   "SKWR*S/KW*ER": "{^}$(''){#Left Left}",
