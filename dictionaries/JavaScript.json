@@ -31,6 +31,7 @@
   "SKWR*S/EUPBT": "{^}$\\{\\}{#Left}{^}",
   "SKWR*S/HAOEUD": "{^}.hide();",
   "SKWR*S/HAS": "{^}.has();{#Left Left}",
+  "SKWR*S/HAS/OEPB/PROPT": "{^}   .hahasOwnProperty();{#Left Left}",  
   "SKWR*S/HR*PS": "{...^}",
   "SKWR*S/HRAOP": "{^}{>}const loopArray = [1,2,3,4,5]{#Return}{#Return}for (let i = 0, x = loopArray.length; i < x; i += 1)\\{{#Return}loopArray[i];{#Up Up Up Left Left Left}",
   "SKWR*S/HREPB": "{^}.length > 0",
