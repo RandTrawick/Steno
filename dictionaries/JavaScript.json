@@ -57,7 +57,7 @@
   "SKWR*S/O*B": "=\\{",
   "SKWR*S/O*B/KAOES": "{^}  Object.keys(yourObject);{#Left Left Left Super_L(d)}",
   "SKWR*S/O*B/SPWREUS": "{^}  Object.entries(yourObject).forEach(([key, value]) => \\{\n",
-  "SKWR*S/O*B/TPEURLT": "{^}  Object.values(yourObject).find(value => value?.item ==='item",
+  "SKWR*S/O*B/TPEURLT": "{^}  Object.values(yourObject).filter(value => value?.item ==='item",
   "SKWR*S/OPB": "{^}.on('click','anyUnBoundSelector',(e) => \\{{#Return}debugger;{#Down};{#Up Up}{#Right Right Right Right Right Right Right Right Right Right}",
   "SKWR*S/PARS": "{^}JSON.parse(){#Left}",
   "SKWR*S/PHA*T": "Math.",
