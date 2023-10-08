@@ -9,12 +9,14 @@
   "RAO*EBGT/EFBG": "{^}{>}useEffect(() =>  \\{\\}, [onChange]);{#Left Left Left Left Left Left Left Left Left Left Left Left Left Left Left}",
   "RAO*EBGT/EFBGT": "{^}{>}useEffect(() =>  \\{\\}, [onChange]);{#Left Left Left Left Left Left Left Left Left Left Left Left Left Left Left}",
   "RAO*EBGT/KHRAS": "{^}className=\"\"{#Left}",
-  "RAO*EBGT/PHAP": "{^}{>}\\{data.map((item, index) => (\n<li key=\\{index\\}>\\{item\\}</li>{#Up Super_L(Left) Right Right Super_L(d)}",
+  "RAO*EBGT/PHAP": "{^}{>}\\{data.map((item, index) => (\n<div key=\\{index\\}>\\{item\\}</div>{#Up Super_L(Left) Right Right Super_L(d)}{^}",
   "RAO*EBGT/PHOEUPL": "{^}{>}const memo = useMemo(() =>  \\{\\}, [onChange]);{#Left Left Left Left Left Left Left Left Left Left Left Left Left Left Left}",
   "RAO*EBGT/PROPS": "{^}{>}this.props.{^}{>}",
   "RAO*EBGT/R*EF": "{^}useRef",
   "RAO*EBGT/SET/STAEUT": "{^}{>}this.setState(\\{\ntheState: theState,{#Up Down Down};{#Up}",
   "RAO*EBGT/STAEUT": "{^}{>}this.state.{^}{>}",
+  "RAO*EBGT/TEFT/EUD": "{>}data-testid='d'{#Left Left Super_L(d)}{^}{>}",
   "RAO*EBGT/TERPB": "{>}\\{\n ? (\n) : (\n{#Up Up}{#Right Right Right Right Right Right Right Right Right}",
+  "RAO*EBGT/TKAET/TEFT/EUD": "{>}data-testid='d'{#Left Left Super_L(d)}{^}{>}",
   "RAO*EBGT/TPRAPLT": "{^}{>}<></>{#Left Left Left}"
   }
