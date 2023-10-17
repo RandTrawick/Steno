@@ -12,8 +12,8 @@
   "RAO*EBGT/KHRAS": "{^}className=\"\"{#Left}",
   "RAO*EBGT/PHAP": "{^}{>}\\{data.map((item, index) => (\n<div key=\\{index\\}>\\{item\\}</div>{#Up Super_L(Left) Right Right Super_L(d)}{^}",
   "RAO*EBGT/PHOEUPL": "{^}{>}const memo = useMemo(() =>  \\{\\}, [onChange]);{#Left Left Left Left Left Left Left Left Left Left Left Left Left Left Left}",
-  "RAO*EBGT/PROP__comment": "jsx child prop and select letter ds for changing both",
-  "RAO*EBGT/PROP": "{^}{>}d=\\{d{#Left Left Left Super_L(d) Super_L(d)}{^}{>}",
+  "RAO*EBGT/PROP__comment": "jsx child prop and select letter ds for changing both, include a space after to account for if it bumps against /",
+  "RAO*EBGT/PROP": "{^}{>}{#Space Left}d=\\{d{#Left Left Left Super_L(d) Super_L(d)}{^}{>}",
   "RAO*EBGT/PROPS": "{^}{>}this.props.{^}{>}",
   "RAO*EBGT/R*EF": "{^}useRef",
   "RAO*EBGT/SET/STAEUT__comment": "class based set state and select the words theState for changing both",
@@ -23,4 +23,4 @@
   "RAO*EBGT/TERPB": "{>}\\{\n ? (\n) : (\n{#Up Up}{#Right Right Right Right Right Right Right Right Right}",
   "RAO*EBGT/TKAET/TEFT/EUD": "{>}data-testid='d'{#Left Left Super_L(d)}{^}{>}",
   "RAO*EBGT/TPRAPLT": "{^}{>}<></>{#Left Left Left}"
-  }
+}
