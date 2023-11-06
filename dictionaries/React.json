@@ -18,6 +18,7 @@
   "RAO*EBGT/R*EF": "{^}useRef",
   "RAO*EBGT/SET/STAEUT__comment": "class based set state and select the words theState for changing both",
   "RAO*EBGT/SET/STAEUT": "{^}{>}this.setState(\\{\ntheState: theState,{#Up Down Down};{#Up}{#Super_L(d) Super_L(d)}",
+  "RAO*EBGT/SKRAOEPB/TKPWUG": "{^}{>}screen.debug();",
   "RAO*EBGT/STAEUT": "{^}{>}this.state.{^}{>}",
   "RAO*EBGT/TEFT/EUD": "{>}data-testid='d'{#Left Left Super_L(d)}{^}{>}",
   "RAO*EBGT/TERPB": "{>}\\{\n ? (\n) : (\n{#Up Up}{#Right Right Right Right Right Right Right Right Right}",
