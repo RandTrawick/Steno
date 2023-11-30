@@ -71,7 +71,7 @@
   "SKWR*S/PW-F": "{^}beforeEach(() => \\{\\});{#Left Left Left}",
   "SKWR*S/PWRABG": "({})",
   "SKWR*S/R*EG": "{^}{>}\/^.*check.*$\/{#Left Left Left Left Left Left Left}",
-  "SKWR*S/RAED/TPAOEUL":  "{^}let data;\ntry \\{data = await fs.promises.readFile('./your.json', 'utf8');\n {#Down} catch (e) \\{\n{#Up Up}", 
+  "SKWR*S/RAED/TPAOEUL":  "{^}const filePath = path.resolve(__dirname,'_documents','file.json');\nlet data;\ntry \\{data = await fs.promises.readFile(filePath, 'utf8');\n {#Down} catch (e) \\{\n{#Up Up}", 
   "SKWR*S/RAOEUR": " = require('');{#Left Left Left}",
   "SKWR*S/RAOUS": "{^}{>}const results = array.reduce((acc, item) => \\{if (item === 'd') \\{acc.push(item);\\}return acc;\\}, []);",
   "SKWR*S/RE/PHOF/KHRAS": "{^}.removeClass();{#Left Left}",
