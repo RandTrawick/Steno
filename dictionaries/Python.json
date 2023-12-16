@@ -11,6 +11,7 @@
   "KWR-P/SHO": "{^}# it should",
   "KWR-P/STREUPBG": "{^}{>}str(){#Left}",
   "KWR-P/TAOEUP": "{^}{>}type(){#Left}",
+  "KWR-P/TERPB": "{^}{>}True if thing else False{#Left Left Left Left Left Left Left Left Left Left Left Left}{^}{>}",
   "KWR-P/TKEF": "{^}{>}def ():{#Left Left Left}{^}{>}",
   "KWR-P/TP": "{^}{>}if:{#Left}",
   "KWR-P/TPOR": "{^}{>}for item in items:{#Left Left Left Left Left Left Left Left Left Left Left Left}",
