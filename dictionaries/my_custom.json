@@ -36,7 +36,7 @@
   "HOEUPTD": "{>}httpd",
   "HO*EUPT": "{^}{>}http://{^}",
   "HOEUPTS": "{>}https",
-  "HO*EUPTS": "{^}{>}https://{^}", 
+  "HO*EUPTS": "{^}{>}https://{^}",
   "HOEUPT/TKPW-LG": "{^}{>}https://www.google.com{^}",
   "HR-FRPBS": "alternatives",
   "HR-PBLG": "large",
@@ -56,9 +56,9 @@
   "KEGT/HREU": "contextually",
   "KEGT/WAL": "contextual",
   "KEGT/WAL/AOEUZ": "contextualize",
-  "KEGT/WAL/AOEUZ/AEUGS": "contextualization",  
+  "KEGT/WAL/AOEUZ/AEUGS": "contextualization",
   "KEGT/WAL/HREU": "contextually",
-  "KEPB/SEUPBG/TOPB": "kensington",  
+  "KEPB/SEUPBG/TOPB": "kensington",
   "KERGS/S": "conversions",
   "KO*RZ": "cors",
   "KOERGZ/AEUGS": "categorization",
@@ -154,6 +154,7 @@
   "SA*S/RO*ER": "$test: ;{#Return} @error: $test;{#Up Left}",
   "SAOU/TPHAPB": "{^}{>}sudo nano",
   "SEFRB/HRET": "servlet",
+  "SERT/PWOT": "certbot",
   "SEUT/REUBGS": "citrix",
   "SHAEURBL": "shareable",
   "SHOEUF": "should I have",
@@ -304,5 +305,5 @@
   "WHUF": "when you have",
   "WO*PBT": "won’t",
   "WR*EUBG": "where I can",
-  "WURLD": "where you would"
+  "WURLD": "where you would"  
 }
