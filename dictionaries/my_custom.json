@@ -259,7 +259,7 @@
   "TP*UPBT": "if you want to",
   "TP*UPT": "if you want to",
   "TP*UR": "if you are",
-  "TP-FP": "{}",
+  "TP-FP": "\\{\\}{#Left}",
   "TP-LG": "{PLOVER:SUGGESTIONS}",
   "TPAF/AOEUPBG": "favicon",
   "TPAOEUBG": "if I can",
@@ -305,5 +305,5 @@
   "WHUF": "when you have",
   "WO*PBT": "won’t",
   "WR*EUBG": "where I can",
-  "WURLD": "where you would"  
+  "WURLD": "where you would"
 }
