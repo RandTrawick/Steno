@@ -2,6 +2,7 @@
   "AO*US": "{>}use{^}{-|}",
   "AO*US/REF": "{>}useRef",
   "AO*US/R*EF": "{>}useRef",
+  "KW-FPL": "{^}=\\{\\}{#Left}",
   "RAO*EBGT/AOUS/EFBGT": "{^}{>}useEffect(() =>  \\{\\}, [onChange]);{#Left Left Left Left Left Left Left Left Left Left Left Left Left Left Left}",
   "RAO*EBGT/AOUS/PHOEUPL": "{^}{>}const memo = useMemo(() =>  \\{\\}, [onChange]);{#Left Left Left Left Left Left Left Left Left Left Left Left Left Left Left}",
   "RAO*EBGT/AOUS/R*EF": "{^}{>}const d = useRef(null);{#Left Left Left Left Left Left Left Left Left Left Left Left Left Left Left Left Shift_L(Left)}",
