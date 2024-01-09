@@ -1917,7 +1917,7 @@
 "PWR-P": "{#MonBrightnessUp}",
 "PWR-PTS": "{#Super_L(F8)}",
 "PWR-S": "{\\{^}",
-"PWR-SZ": "{}",
+"PWR-SZ":"\\{}",
 "PWR-Z": "\\{",
 "PWRA*EBG": "{*?}",
 "PWRAEBGD": "breakdown",
