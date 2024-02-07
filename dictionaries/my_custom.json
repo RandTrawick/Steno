@@ -17,6 +17,8 @@
   "APBT/TPHEUPL": "antonym",
   "ARBG/TKPWEUS": "ArcGIS",
   "AUPBS/S": "audiences",
+  "E/PHEURT": "emitter",
+  "AOE/PHEURT": "emitter",
   "EPB/KOED": "encode",
   "EPB/KREUPT": "encrypt",
   "EPB/SKWREUPBGS": "nginx",
