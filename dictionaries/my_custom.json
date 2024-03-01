@@ -172,6 +172,7 @@
   "SHREPB": "selenium",
   "SK-P": "{*!}",
   "SKAOUBLT": "executable",
+  "SKRAO*EPB": "screen",
   "SKW-L/AOEUZ": "sequelize",
   "SKW-LZ": "sequelize",
   "SKW-P": "{#command(left)}{delete}",
