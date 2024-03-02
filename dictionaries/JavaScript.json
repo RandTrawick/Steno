@@ -14,7 +14,7 @@
   "PWAB/EL/TPEUD": "babelifed",
   "SA*F": "--save",
   "SKRAO*EPB/KWAO*ER/PWEU/TEGT": "screen.queryByText();{#Left Left}",
-  "SKRAO*EPB/TKPWET/PWEU/EUD": "screen.getById();{#Left Left}",
+  "SKRAO*EPB/TKPWET/PWEU/EUD": "screen.getByTestId();{#Left Left}",
   "SKRAO*EPB/TKPWET/PWEU/TEGT": "screen.getByText();{#Left Left}",
   "SKRAO*EPB/TKPWUG": "{^}{>}screen.debug();",  
   "SKWR*PB": "{^}{>}json",
