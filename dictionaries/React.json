@@ -11,6 +11,7 @@
   "RAO*EBGT/EFBG": "{^}{>}useEffect(() =>  \\{\\}, [onChange]);{#Left Left Left Left Left Left Left Left Left Left Left Left Left Left Left}",
   "RAO*EBGT/EFBGT": "{^}{>}useEffect(() =>  \\{\\}, [onChange]);{#Left Left Left Left Left Left Left Left Left Left Left Left Left Left Left}",
   "RAO*EBGT/KHRAS": "{^}className=\"\"{#Left}",
+  "RAO*EBGT/HREPLT": "{>}< \/>{#Left Left Left}{^}{-|}",
   "RAO*EBGT/PHAP": "{^}{>}\\{data.map((item, index) => (\n<div key=\\{index\\}>\\{item\\}</div>{#Up Super_L(Left) Right Right Super_L(d)}{^}",
   "RAO*EBGT/PHOEUPL": "{^}{>}const memo = useMemo(() =>  \\{\\}, [onChange]);{#Left Left Left Left Left Left Left Left Left Left Left Left Left Left Left}",
   "RAO*EBGT/PROP__comment": "jsx child prop and select letter ds for changing both, include a space after to account for if it bumps against /",
