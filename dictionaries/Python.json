@@ -13,6 +13,7 @@
   "KWR-P/TAOEUP": "{^}{>}type(){#Left}",
   "KWR-P/TERPB": "{^}{>}True if thing else False{#Left Left Left Left Left Left Left Left Left Left Left Left}{^}{>}",
   "KWR-P/TKEF": "{^}{>}def ():{#Left Left Left}{^}{>}",
+  "KWR-P/TKOBG": "{^}{>}\"\"\"\"\"\"{#Left Left Left}{^}",
   "KWR-P/TKOBG/STREUPBG": "{^}{>}\"\"\"\"\"\"{#Left Left Left}{^}",
   "KWR-P/TP": "{^}{>}if:{#Left}",
   "KWR-P/TPOR": "{^}{>}for item in items:{#Left Left Left Left Left Left Left Left Left Left Left Left}",
