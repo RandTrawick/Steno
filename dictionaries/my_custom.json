@@ -162,6 +162,7 @@
   "S*RB/RUPB/SKREUPT": "zsh runScript.zsh{#Return}",
   "S*UB/PROPBL": "{^}<project>,-*node_modules/*,-*next/*",
   "S-FRB/HRET": "servlet",
+  "S-FG": "{>}svg",
   "SA*S/RO*ER": "$test: ;{#Return} @error: $test;{#Up Left}",
   "SAOU/TPHAPB": "{^}{>}sudo nano",
   "SEFRB/HRET": "servlet",
