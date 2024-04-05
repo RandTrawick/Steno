@@ -140,6 +140,7 @@
   "PWARB/WAFP/TEFTS": "{^}bash watchTests.bash{#Return}",
   "PWARB/WAFP/TKPWUG": "{^}bash watchDebug.bash{#Return}",
   "PWARBT": "{^}bash watchComponent.bash{#Return}",
+  "PWR*": "\\{\\}{#Left}",
   "PWR-*BGTS": "[]{#Left}",
   "PWRAOEFGS/S": "abbreviations",
   "PWROURS/TPEU": "browserify",
