@@ -3680,7 +3680,7 @@
 "TP*BS": "{#F5}",
 "TP*ERT": "feather",
 "TP*EUZ": "Fizz",
-"TP*F": "{}",
+"TP*F": "\\{\\}{#Left}",
 "TP*G": "{#F2}",
 "TP*GS": "{#F3}",
 "TP*P/3": "F3",
