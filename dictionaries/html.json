@@ -1,0 +1,9 @@
+{
+  "HAO*EPLT": "{>}html",
+  "HAO*EPLT/EUD": "id=\"{^}{>}",
+  "HAO*EPLT/HREU": "{^}{>}<li>",
+  "HAO*EPLT/HR*EU": "{^}{>}</li>",
+  "HAO*EPLT/KHRAS": "class=\"{^}{>}",
+  "HAO*EPLT/TR-BT": "{^}=\"{^}{>}",
+  "HAO*EPLT/UL": "{^}{>}<ul></ul>{#Left Left Left Left Left}"
+}
