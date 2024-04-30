@@ -102,6 +102,7 @@
   "SKWR*S/SKREUB": "{^}describe('yourFunction', () => \\{\\});{#Left Left Left Left Left Left Left Left Left Left Left Left Left Left Left Left Left Left}",
   "SKWR*S/SKWARPB": "{>}console.warn({^}",
   "SKWR*S/SKWR": "{^}$(''){#Left Left}",
+  "SKWR*S/SKWR*": "{^}$(){#Left}",
   "SKWR*S/SKWREFT/TPUPBGS": "{>}jest.fn();",
   "SKWR*S/SORT": "{^}.sort((a, b) => (a.value > b.value) ? 1 : -1);{#Left Left Left Left Left Left Left Left Left Left Left Left Left Left Left Left Left Left Left Left Left Left Left Left}",
   "SKWR*S/SPHREUT": "{^}.split();{#Left Left}",
