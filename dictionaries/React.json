@@ -25,7 +25,7 @@
   "RAO*EBGT/TEFT/EUD": "{>}data-testid='d'{#Left Left Super_L(d)}{^}{>}",
   "RAO*EBGT/TERPB": "{>}\\{\n ? (\n) : (\n{#Up Up}{#Right Right Right Right Right Right Right Right Right}",
   "RAO*EBGT/TKAET/TEFT/EUD": "{>}data-testid='d'{#Left Left Super_L(d)}{^}{>}",
-  "RAO*EBGT/TK*EUF": "{^}{>}<div",
+  "RAO*EBGT/TK*EUF": "{^}{>}<div.",
   "RAO*EBGT/TPRAPLT": "{^}{>}<></>{#Left Left Left}",
   "RAOURS": "reducer"
 }
