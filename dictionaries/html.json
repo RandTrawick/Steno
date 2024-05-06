@@ -4,7 +4,7 @@
   "HAO*EPLT/HREU": "{^}{>}<li>",
   "HAO*EPLT/HR*EU": "{^}{>}</li>",
   "HAO*EPLT/KHRAS": "class=\"{^}{>}",
-  "HAO*EPLT/TK*EUF": "{^}{>}<div></div>{#Left Left Left Left Left Left}",
+  "HAO*EPLT/TK*EUF": "{^}{>}<div class=\"\"></div>{#Left Left Left Left Left Left}",
   "HAO*EPLT/TR-BT": "{^}=\"{^}{>}",
   "HAO*EPLT/UL": "{^}{>}<ul></ul>{#Left Left Left Left Left}"
 }
