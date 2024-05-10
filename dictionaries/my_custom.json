@@ -185,6 +185,8 @@
   "SKW-P": "{#command(left)}{delete}",
   "SKWRA-F": "java",
   "SO*ERL": "solar",
+  "SO/TPHAR/KAOUB": "SonarQube",
+  "SOE/TPHAR/KAOUB": "SonarQube",
   "SOFPLT/AOES": "some of these",
   "SORBLT": "sortable",
   "SPHAEGS": "segmentation",
