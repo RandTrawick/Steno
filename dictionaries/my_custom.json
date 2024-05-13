@@ -49,6 +49,8 @@
   "HRO*ERD": "{*>}",
   "HRO*EUR": "{^}{>}",
   "HROEUR": "{>}",
+  "HROG/HREU": " logarithmically",
+  "HROG/REUFPL/EUBG/HREU": " logarithmically",
   "HROEURD": "{*>}",
   "HRUBGS/OPB": "luxon",
   "K*D": "{^}cd ..{#Return}",
