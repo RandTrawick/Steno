@@ -31,7 +31,7 @@
   "SKWR*S/TO/AOURP": "{^}{>}.toUpperCase();",
   "SKWR*S/TO/UP": "{^}{>}.toUpperCase();",
   "SKWR*S/AT": "{^}.at();{#Left Left}",
-  "SKWR*S/ELS": "else \\{\n}{^}",
+  "SKWR*S/ELS": "{^}{>}else \\{\n}{^}",
   "SKWR*S/EPB/KOED": "{^}{>}encodeURI();{#Left Left}",
   "SKWR*S/EUPL/PORT": "{^}{>}import d from 'd';{#Left Left Left Left Left Left Left Left Left Left Shift_L(Left)}{^}",
   "SKWR*S/EUPBT": "{^}$\\{\\}{#Left}{^}",
