@@ -229,6 +229,7 @@
   "TEPB/APB/SEUS": "tenancies",
   "TEPB/SEU": "tenancy",
   "TEPB/SEUS": "tenancies",
+  "TER/TPORPL": "terraform",
   "TER/RA/TPORPL": "terraform",
   "TERN/AER": "ternary",
   "TEU/K": "tika",
