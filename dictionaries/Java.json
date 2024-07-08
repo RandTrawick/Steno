@@ -8,7 +8,6 @@
   "SKWRA*F/PREUPBT": "{^}System.out.println();{#Left Left}",
   "SKWRA*F/RO*ER": "{^}String errorMsg = e.getMessage();",
   "SKWRA*F/ROEUR": "{^}[ERROR]",
-  "SKWRA*F/ROEUR": "{^}[ERROR]",
   "SKWRA*F/TAOEUP": "{>}.getClass().getSimpleName();",
   "SKWRA*F/TREU": "{^}try \\{\n {#Down} catch (Exception e) \\{\n{#Up Up}"
 }
