@@ -89,6 +89,7 @@
   "SKWR*S/RE/PHOF/KHRAS": "{^}.removeClass();{#Left Left}",
   "SKWR*S/RE/PHRAEUS": "{^}.replace('','');{#Left Left Left Left Left Left}",
   "SKWR*S/REG": "{^}{>}const matcher = new RegExp(/^.*check.*$/)\nmatcher.test(text){#Up}{#Right Right Right Right Right Right Right Right Right Right Right Right Right Right Right}",
+  "SKWR*S/RURPB": "{^}{>}\\{return\\}{#Left}",
   "SKWR*S/S/A/RAEU": "{^}Array.isArray(){#Left}{^}",
   "SKWR*S/S/TPHUPL": "{^}Number.isInteger(){#Left}{^}",
   "SKWR*S/SET": "{^}{>}const setter = new Set();{#Left left left left left left left left left left left left left left}",
