@@ -11,6 +11,7 @@
 "TKPWEUT/EUPB/T": "{^}{>}git init",
 "TKPWEUT/H*UB": "GitHub",
 "TKPWEUT/HROG": "{^}{>}git log{#Return}",
+"TKPWEUT/HR*OG": "{^}{>}git log",
 "TKPWEUT/HUB": "github",
 "TKPWEUT/HUPB": "Github",
 "TKPWEUT/KH*EBGT": "{^}{>}git checkout -b",
