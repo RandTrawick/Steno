@@ -1,7 +1,9 @@
 {
-  "STKR*EUPT/TAOEUP": "{>}<>{# Left}{^}{-|}",
-  "STKR*EUPT/RAOEBGT/TPHU": "{^}const newy: React.FC = () => \\{\\}{#Super_L(Left) Right Right Right Right Right Right Right}",
-  "STKR*EUPT/SKPORT/SPWRFS": "{^}{>}export interface \\{\\}{#Left Left}{^}{-|}{MODE:TITLE}{MODE:SET_SPACE:}",
-  "STKR*EUPT/SKWREPB/REUBG": "{^}{>}const jeny = (\\{ variable \\}: InputObject): void => \\{\\}{#Super_L(Left) Right Right Right Right Right Right Right}",
-  "STKR*EUPT/TPHU": "{^}const newy: = (name: string): string => \\{\\}{#Super_L(Left) Right Right Right Right Right Right Right}"
+    "STKR*EUPT/RO*ER": "{>}instanceof Error",
+    "STKR*EUPT/RAOEBGT/TPHU": "{^}const newy: React.FC = () => \\{\\}{#Super_L(Left) Right Right Right Right Right Right Right}",
+    "STKR*EUPT/SKPORT/SPWRFS": "{^}{>}export interface \\{\\}{#Left Left}{^}{-|}{MODE:TITLE}{MODE:SET_SPACE:}",
+    "STKR*EUPT/SKWREPB/REUBG": "{^}{>}const jeny = (\\{ variable \\}: InputObject): void => \\{\\}{#Super_L(Left) Right Right Right Right Right Right Right}",
+    "STKR*EUPT/SPWRFS": "{^}{>}interface \\{\\}{#Left Left}{^}{-|}{MODE:TITLE}{MODE:SET_SPACE:}",
+    "STKR*EUPT/TAOEUP": "{>}<>{# Left}{^}{-|}",
+    "STKR*EUPT/TPHU": "{^}const newy: = (name: string): string => \\{\\}{#Super_L(Left) Right Right Right Right Right Right Right}"
 }
