@@ -5,6 +5,7 @@
     "-FP/PUG": "{^}.pug",
     "-FR/TPHOET": "evernote",
     "-P": "{^}.{^}",
+    "A*ER/PRES": "AeroPress",
     "A*EUP": "{>}api",
     "A*EUR": "array",
     "A*PLZ": "amazon",
