@@ -4,7 +4,7 @@
   "KWR-P/ELS/TP": "{^}{>}if:\n",
   "KWR-P/EUPB/EUT": "{^}__init__.py",
   "KWR-P/EUPBT": "{^}\\{\\}{#Left}",
-  "KWR-P/HEUT": "{^}{>}: str {#Left Left}",
+  "KWR-P/HEUPBT": "{^}{>}: str {#Left Left}",
   "KWR-P/HRAOP": "{^}{>}for item in items:{#Left Left Left Left Left Left Left Left Left Left Left Left}",
   "KWR-P/PREUPBT": "{^}{>}print(){#Left}",
   "KWR-P/SET": "{^}{>}setter = set(){#Left left left left left left left left left left left}",
