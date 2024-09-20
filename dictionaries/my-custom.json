@@ -6,6 +6,7 @@
     "-FR/TPHOET": "evernote",
     "-P": "{^}.{^}",
     "A*ER/PRES": "AeroPress",
+    "A*EU/AOEU": "ai",
     "A*EUP": "{>}api",
     "A*EUR": "array",
     "A*PLZ": "amazon",
