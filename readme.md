@@ -9,7 +9,7 @@
 
 ## Plover links
 [What is Stenography?](https://www.openstenoproject.org/)  
-[https://github.com/openstenoproject/plover](https://github.com/openstenoproject/plover)  
+[plover project github](https://github.com/openstenoproject/plover)  
 
 ## Coding with Plover
 [Mirabai Knight's What is Steno Good For? Writing and Coding With Steno](http://plover.stenoknight.com/2010/04/writing-and-coding-with-steno.html)  
