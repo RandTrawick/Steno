@@ -10,6 +10,8 @@
     "A*EUP": "{>}api",
     "A*EUR": "array",
     "A*PLZ": "amazon",
+    "A*RG": "arg",
+    "A*RGS": "args",
     "ABG/HRAEUT/TOR": "accumulator",
     "ABGS/KWROS": "axios",
     "AO*ULT": "util",
