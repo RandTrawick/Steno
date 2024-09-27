@@ -14,4 +14,9 @@
 ## Coding with Plover
 [Mirabai Knight's What is Steno Good For? Writing and Coding With Steno](http://plover.stenoknight.com/2010/04/writing-and-coding-with-steno.html)  
 [Ted's coding in stenography video](https://www.youtube.com/watch?v=RBBiri3CD6w)  
+
+## References
+- [Ted's github](https://github.com/morinted)
+- [Di's dictionaries](https://github.com/didoesdigital/steno-dictionaries)
+- [Emily's symbols](https://github.com/EPLHREU/emily-symbols)
 </div>
