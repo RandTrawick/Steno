@@ -16,7 +16,7 @@
 [Ted's coding in stenography video](https://www.youtube.com/watch?v=RBBiri3CD6w)  
 
 ## References
-[Ted's github](https://github.com/morinted)
-[Di's dictionaries](https://github.com/didoesdigital/steno-dictionaries)
-[Emily's symbols](https://github.com/EPLHREU/emily-symbols)
+[Ted's github](https://github.com/morinted)  
+[Di's dictionaries](https://github.com/didoesdigital/steno-dictionaries)  
+[Emily's symbols](https://github.com/EPLHREU/emily-symbols)  
 </div>
