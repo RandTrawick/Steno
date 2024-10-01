@@ -20,7 +20,7 @@
   "SKRAO*EPB/TKPWET/PWEU/TEFT/EUD": "screen.getByTestId();{#Left Left}",
   "SKRAO*EPB/TKPWET/PWEU/TEGT": "screen.getByText();{#Left Left}",
   "SKRAO*EPB/TKPWUG": "{^}{>}screen.debug();",
-  "SKWR*PB": "{^}{>}json",
+  "SKWR*PB": "{>}json",
   "SKWR*S": "{^}js",
   "SKWR*S/-LD": "JSON-LD",
   "SKWR*S/A*EUR": "=[",
