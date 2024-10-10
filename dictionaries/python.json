@@ -9,6 +9,7 @@
   "KWR-P/PREUPBT": "{^}{>}print(){#Left}",
   "KWR-P/SET": "{^}{>}setter = set(){#Left left left left left left left left left left left}",
   "KWR-P/SEUS": "sys",
+  "KWR-P/SKREUB": "{^}    def test_newy(self):\n{#Tab}\"\"\"Test for newy\"\"\"\n\n# Call newy\ninput_params = ''\nnewy(input_params){#Up Up Up Up Up}{#Left Left Left Left Left Left Left}{#Shift_L(Left) Shift_L(Left) Shift_L(Left) Shift_L(Left)}",
   "KWR-P/SHO": "{^}# it should",
   "KWR-P/STR": "{^}{>}str(){#Left}",
   "KWR-P/STREUPBG": "{^}{>}str(){#Left}",
