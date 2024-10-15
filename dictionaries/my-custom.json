@@ -175,6 +175,7 @@
     "RO*EU": "{-|}ROI",
     "ROE/TAEUGT": "rotating",
     "RURS/HREU": "recursively",
+    "S*EFRT": "zester",
     "S*RB": "zsh",
     "S*RB/RUPB/SKREUPT": "zsh runScript.zsh{#Return}",
     "S*UB/PROPBL": "{^}<project>,-*node_modules/*,-*next/*",
