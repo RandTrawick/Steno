@@ -141,6 +141,7 @@
   "SKWR*S/TKPWET/PWEU/TEGT": "render(<SomeComponent />);\nconst element = screen.getByText('some text');{#Up Left Left Left Left Left Left}",
   "SKWR*S/TO/AOURP": "{^}{>}.toUpperCase();",
   "SKWR*S/TO/HROER": "{^}{>}.toLowerCase();",
+  "SKWR*S/TO/STREUPBG": "{^}.toString({#Right}{^};{^}",
   "SKWR*S/TO/TPEUFD": "{^}.toFixed({#Right}{^};{#Left Left}{^}",
   "SKWR*S/TO/TPHUPL": "parseFloat({#Right}{^};{#Left Left}{^}",
   "SKWR*S/TO/UP": "{^}{>}.toUpperCase();",
