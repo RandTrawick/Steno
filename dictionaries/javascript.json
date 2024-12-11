@@ -132,6 +132,7 @@
   "SKWR*S/THROE": "{^}throw new Error(",
   "SKWR*S/THROU": "{^}throw new Error(",
   "SKWR*S/TKEUPBGS": "{^}.indexOf(){#Left}",
+  "SKWR*S/TKO*BG": "/**{#Return}",
   "SKWR*S/TKOBG": "jsdoc",
   "SKWR*S/TKOPL": "{^}$(() => \\{{#Return}; // old school DOM ready {#Left}",
   "SKWR*S/TKPEUFT": "{^}.toExist()",
