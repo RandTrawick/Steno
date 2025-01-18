@@ -46,6 +46,8 @@
     "HOEUPTS": "{>}https",
     "HO*EUPTS": "{^}{>}https://{^}",
     "HOEUPT/TKPW-LG": "{^}{>}https://www.google.com{^}",
+    "HR*PL": "LLM",
+    "HR*PLS": "LLMs",
     "HR-FRPBS": "alternatives",
     "HR-PBLG": "large",
     "HRA/PHA/THRAO*E": "llama3",
