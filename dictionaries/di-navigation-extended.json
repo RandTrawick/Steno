@@ -1,4 +1,8 @@
 {
+  "STA*B": "{#Shift_L(Tab)}",
+  "STA*BG": "{#Shift_L(Control_L(Tab))}",
+  "STA*BT": "{#Alt_L(Shift_L(Tab))}",
+  "STA*RT": "{#Super_L()}",
   "STPH*RB": "{#Alt_L(Left)}",
   "STPH-BG": "{#Control_L(Right)}",
   "STPH-BGS": "{#Control_L(Super_L(Right))}",
@@ -11,5 +15,9 @@
   "STPH-RB": "{#Control_L(Left)}",
   "STPH-RBG": "{#End}",
   "STPH-RPG": "{#Page_Up}",
-  "STPH-RT": "{#Shift_L(Insert)}"
+  "STPH-RT": "{#Shift_L(Insert)}",
+  "TA*B": "{#tab}{^}",
+  "TA*BG": "{#Control_L(Tab)}",
+  "TA*BT": "{#Alt(tab tab)}",
+  "TA*EUB": "{#Shift_L(Tab)}"
 }
