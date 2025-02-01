@@ -1,4 +1,6 @@
 {
   "STPH-RBGS": "{#Shift_L(End)}",
-  "STPH-FPLS": "{#Shift_L(Home)}"
+  "STPH-FPLS": "{#Shift_L(Home)}",
+  "STPH-RBG": "{#End}",
+  "STPH-FPL": "{#Home}"
 }

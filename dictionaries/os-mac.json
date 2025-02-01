@@ -1,4 +1,6 @@
 {
   "STPH-RBGS": "{#Super_L(Shift_L(Right))}",
-  "STPH-FPLS": "{#Super_L(Shift_L(Left))}"
+  "STPH-FPLS": "{#Super_L(Shift_L(Left))}",
+  "STPH-FPL": "{#Super_L(Left)}",
+  "STPH-RBG": "{#Super_L(Right)}"
 }
