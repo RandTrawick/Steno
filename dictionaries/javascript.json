@@ -164,7 +164,7 @@
   "SKWR*S/UPB/SHEUFT": "{^}.unshift();{#Left Left}",
   "SKWR*S/WAEUT/TPOR": "{^}await waitFor(() => \\{\\});{#Left Left Left}",
   "SKWR*S/WHAOEUL": "{^}while (condition) \\{\n{#Up}{#Right Right Right Right Right Control_L(Shift_L(Right))}",
-  "SKWR*S/WRAOEUT/TPAOEUL": "{^}const dataFilePath = path.resolve(__dirname, 'api', 'the', 'long', 'path', 'foo.txt');\nfs.writeFile(dataFilePath, 'bar', (err) => { if (err) throw err; });{#Super_L(Left)}",
+  "SKWR*S/WRAOEUT/TPAOEUL": "{^}const dataFilePath = path.resolve(__dirname, 'api', 'the', 'long', 'path', 'foo.txt');\n    await fs.writeFile(dataFilePath, 'bar');{#Left Left Left Left}",
   "SKWR-B": "{#Shift_L(Down)}",
   "SKWR-BG": "{#Control_L(Shift_L(Right))}",
   "SKWR-FBL": "{#Shift_L(Page_Down)}",
