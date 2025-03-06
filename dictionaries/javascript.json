@@ -186,5 +186,6 @@
   "TPHA*ULS": "!==",
   "TPHO*D/RE/PHOF": "rm -r node_modules;rm -r package-lock.json;{#Return}",
   "TPHO*ED/RE/PHOF": "rm -r node_modules;rm -r package-lock.json;{#Return}",
-  "TR*BT": "attr"
+  "TR*BT": "attr",
+  "UPBD/TPAOEUPBD": "undefined"
 }
