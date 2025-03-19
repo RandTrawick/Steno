@@ -61,7 +61,7 @@
   "SKWR*S/KW*ER/SHREBGT/O*R": "{^}.querySelector('');{#Left Left Left}",
   "SKWR*S/KWAO*ER/SHREBGT/O*R": "{^}.querySelector('');{#Left Left Left}",
   "SKWR*S/KWAO*ER/SHREBGT": "{^}.querySelector('');{#Left Left Left}",
-  "SKWR*S/KPH*EPBT": "/////////////////////////////\n// comment //\n/////////////////////////////{#Up Up}{#Right Right Right Right Right Right Right} ",
+  "SKWR*S/KPH*EPBT": "/////////////////////////////{#Shift_L(Return)}// comment //{#Shift_L(Return)}/////////////////////////////{#Up Up}{#Right Right Right Right Right Right Right} ",
   "SKWR*S/KPHEPBT": "/*\n*/{#Up Return Tab}{^}{-|}",
   "SKWR*S/KW*ER": "{^}$(''){#Left Left}",
   "SKWR*S/O*B": "=\\{",
