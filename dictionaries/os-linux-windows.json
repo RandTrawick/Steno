@@ -1,4 +1,8 @@
 {
+  "SAOU/SEUS/START": "{^}{>}sudo systemctl start{>}",
+  "SAOU/SEUS/STKABL": "{^}{>}sudo systemctl disable{>}",
+  "SAOU/SEUS/STOP": "{^}{>}sudo systemctl stop{>}",
+  "SAOU/SEUS/TKEUS/AEUBL": "{^}{>}sudo systemctl disable{>}",
   "STPH-RBGS": "{#Shift_L(End)}",
   "STPH-FPLS": "{#Shift_L(Home)}",
   "STPH-RBG": "{#End}",
