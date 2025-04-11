@@ -22,7 +22,7 @@
   "KWR-P/TP": "{^}{>}if:{#Left}",
   "KWR-P/TPOR": "{^}{>}for item in items:{#Left Left Left Left Left Left Left Left Left Left Left Left}",
   "KWR-P/TPHU": "{^}{>}def newy(variable: str) -> str:\n\"\"\"newy .\"\"{#Up}{#Left Left Left Left Left Left Left Left Left Left}",
-  "KWR-P/TREU": "{^}try:\n\nexcept Exception as e:\n    raise RuntimeError(f'An error occurred while... : {e}'){#Up Up Tab}",
+  "KWR-P/TREU": "{^}try:\n\nexcept Exception as e:\n    raise RuntimeError(f'An error occurred while... : \\{str(e)\\}{#Up Up Tab}",
   "KWR-P/WRAOEUT/TPAOEUL": "{^}with open('yourfile.txt', 'w', encoding='utf-8') as file:\nfile.write(text_to_write){#Left Left Left Left}",
   "SPEU/TKER": "Spyder",
   "SPAO*EU/TKER": "Spyder",
