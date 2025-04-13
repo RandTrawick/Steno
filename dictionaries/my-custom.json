@@ -180,7 +180,7 @@
     "R*EF": "{>}ref",
     "R*ES": "res",
     "R*R": "{#Return}{^}}{-|}",
-    "RA*ED/PHE": "{^}{>}readme.md",
+    "RA*ED/PHE": "{^}{-|}README.md",
     "RAELSZ": "realise",
     "RAEU/TKUPB": "Radeon",
     "RE/AOUS/ABLT": "reusability",
