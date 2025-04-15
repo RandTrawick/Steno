@@ -1,4 +1,7 @@
 {
-  "STPHE": "{#Control_L(D)}",
-  "STPHU": "{#Control_L(L)}"
+  "STPHE": "{#Super_L(D)}",
+  "STPH*E": "{#Shift_L(Super_L(d))}",
+  "STPHU": "{#Super_L(L)}",
+  "STKUBL": "{#Super_L(D)}",
+  "STK*UBL": "{#Shift_L(Super_L(d))}"
 }
