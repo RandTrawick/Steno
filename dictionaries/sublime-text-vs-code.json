@@ -1,5 +1,5 @@
 {
-  "SKPH-P": "{#Super_L(Shift_L(p))}",
+  "SKPH*P": "{#Super_L(Shift_L(p))}",
   "STK*UBL": "{#Shift_L(Super_L(d))}",
   "STKUBL": "{#Super_L(D)}",
   "STPH*E": "{#Shift_L(Super_L(d))}",

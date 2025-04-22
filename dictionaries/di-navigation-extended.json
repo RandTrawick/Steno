@@ -1,5 +1,5 @@
 {
-  "SKPH*F": "{#command(shift(v))}",
+  "SKPH-P": "{#command(shift(v))}",
   "SKPH-F": "{#command(shift(f))}{^^}",
   "SKPH-S": "{#command(shift(s))}",
   "SKPH-T": "{#Super_L(Shift_L(t))}",
