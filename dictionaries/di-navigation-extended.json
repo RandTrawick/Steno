@@ -1,4 +1,9 @@
 {
+  "SKPH*F": "{#command(shift(v))}",
+  "SKPH-F": "{#command(shift(f))}{^^}",
+  "SKPH-S": "{#command(shift(s))}",
+  "SKPH-T": "{#Super_L(Shift_L(t))}",
+  "SKPH-Z": "{#command(shift(z))}",
   "STA*B": "{#Shift_L(Tab)}",
   "STA*BG": "{#Shift_L(Control_L(Tab))}",
   "STA*BT": "{#Alt_L(Shift_L(Tab))}",
