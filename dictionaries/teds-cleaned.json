@@ -1219,7 +1219,7 @@
   "STPOERBGS/KW-BG": "{,}for example{,}",
   "STPOR": "scissor",
   "STPR": "{#+shift}",
-  "STPR-R": "{#shift(return)}{^}",
+  "STPR-R": "{#Shift_L(Return)}{^}",
   "STPR-RPLS": "{MODE:RESET}{#}",
   "STPR-RPLT": "{^:}{-|}",
   "STPR/A": "{&a}",
