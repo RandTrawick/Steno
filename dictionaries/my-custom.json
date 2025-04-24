@@ -180,7 +180,7 @@
     "R*EBG": "req",
     "R*EF": "{>}ref",
     "R*ES": "res",
-    "R*R": "{#Return}{^}}{-|}",
+    "R*R": "{#Shift_L(Return)}{MODE:RESET}",
     "RA*ED/PHE": "{^}{-|}README.md",
     "RAELSZ": "realise",
     "RAEU/TKUPB": "Radeon",
