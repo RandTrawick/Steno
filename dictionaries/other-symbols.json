@@ -1,0 +1,16 @@
+{
+  "PWR*S": "{^\\}}",
+  "PWR*S/PWR-S": "{^}\\}\\{{^}",
+  "PWR*Z": "\\}",
+  "PWR-BGT": "{~|[^}",
+  "PWR-BGTS": "[]",
+  "R*BGT": "{^}]",
+  "R*RPB": "{^}>",
+  "R*S": "{^}\\}",
+  "R-BGT": "{^}[{^}",
+  "R-RPB": "<{^}",
+  "R-S": "{^}\\{{^}",
+  "S*R": "{##Return Return Return}",
+  "S*S": "{##Return Return Return}",
+  "S-P/KWR-G": "{}=>"
+}
