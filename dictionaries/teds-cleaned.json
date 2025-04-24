@@ -747,7 +747,6 @@
   "R-FPB": "RCN",
   "R-FPLT": "{#+right}",
   "R-PLS": "{#Escape}{^}:%s/{^}",
-  "R-R": "{^~|\n^}{MODE:RESET}",
   "R-RBLT": "{&\u0279}",
   "R50EU9": "{#Super_L(Right)}",
   "RA*RD": "reward",

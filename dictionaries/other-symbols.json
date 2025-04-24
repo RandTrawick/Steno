@@ -8,6 +8,7 @@
   "R*RPB": "{^}>",
   "R*S": "{^}\\}",
   "R-BGT": "{^}[{^}",
+  "R-R": "{^~|\n^}{MODE:RESET}",
   "R-RPB": "<{^}",
   "R-S": "{^}\\{{^}",
   "S*R": "{##Return Return Return}",
