@@ -33,7 +33,5 @@
 "PHRO*F": "{PLOVER:SUSPEND}",
 "PHRO*PB": "{PLOVER:RESUME}",
 "PHROLG": "{PLOVER:TOGGLE}",
-"R*R": "{#Return}{^}",
-"R-R": "{^~|\n^}",
 "*UPD": "{*<}"
 }
