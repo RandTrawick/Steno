@@ -15,5 +15,18 @@
   "R-S": "{^}\\{{^}",
   "S*R": "{##Return Return Return}",
   "S*S": "{##Return Return Return}",
-  "S-P/KWR-G": "{}=>"
+  "S-P/KWR-G": "{}=>",
+  "TP*F": "\\{\\}{#Left}",
+  "TP-PL/STPH-RB": "{.}{#Control_L(Left)}",
+  "TP-PL/TPR-RPL": "{.}{^\n^}{-|}",
+  "TPH*EGT": "{#AudioNext}",
+  "TPH*ERT": "{#Insert}",
+  "TPHARPBG": "{#Control_L(Shift_L(Escape))}",
+  "TPHAUPL": "{num^}{-|}",
+  "TPR*G": "{#control(alt(k))}",
+  "TPR*LG": "{#control(Alt(o j))}",
+  "TPR*PBLG": "{#Control_L(Alt_L(j))}",
+  "TPR*PS": "{#Control_L(Alt_L(o))}",
+  "TPR*PSZ": "{#Control_L(Alt_L(o j o))}",
+  "TPR*RS": "{#Control_L(Alt_L(k))}"
 }
