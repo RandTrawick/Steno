@@ -7,7 +7,7 @@
   "STPH-FPLS": "{#Shift_L(Home)}",
   "STPH-RBG": "{#End}",
   "STPH-FPL": "{#Home}",
-  "KHR-F": "{#Control_L(v)}",
+  "KHR*F": "{#Control_L(v)}",
   "KHR*BG": "{#Control_L(k)}",
   "KHR*T": "{#Control_L(w)}",
   "KHR-BG": "{#Control_L(c)}"
