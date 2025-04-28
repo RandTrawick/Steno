@@ -2,9 +2,9 @@
   "KHR*BG": "{#Super_L(k)}",
   "KHR*F": "{#Super_L(v)}",
   "KHR*T": "{#Super_L(w)}",
-  "KHR-BG": "{#Super_L(c)}"
+  "KHR-BG": "{#Super_L(c)}",
   "STPH-FPL": "{#Super_L(Left)}",
   "STPH-FPLS": "{#Super_L(Shift_L(Left))}",
   "STPH-RBG": "{#Super_L(Right)}",
-  "STPH-RBGS": "{#Super_L(Shift_L(Right))}",
+  "STPH-RBGS": "{#Super_L(Shift_L(Right))}"
 }
