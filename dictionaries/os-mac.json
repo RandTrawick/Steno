@@ -2,7 +2,7 @@
   "KHR*BG": "{#Super_L(k)}",
   "KHR*F": "{#Super_L(v)}",
   "KHR*FR": "{#Shift_L(Return) Super_L(v)}",
-  "KHR*FRP": "{#Shift_L(Return) Super_L(v) Return}",
+  "KHR*FRP": "{#Shift_L(Return) Super_L(v)}{#Return}",
   "KHR*T": "{#Super_L(w)}",
   "KHR-BG": "{#Super_L(c)}",
   "STPH-FPL": "{#Super_L(Left)}",
