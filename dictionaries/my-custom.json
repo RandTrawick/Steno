@@ -162,6 +162,7 @@
     "PWARB/AOEPBG": "{^}bash evening.bash{#Return}",
     "PWARB/PHOD": "{^}bash mod.bash{#Return}",
     "PWARB/PHORPG": "{^}bash morning.bash{#Return}",
+    "PWARB/PREUPBT": "{^}echo",
     "PWARB/PWEULD": "{^}./build{#Return}",
     "PWARB/PWHEULD/KPOEPBT": "{^}bash buildComponent.bash{#Return}",
     "PWARB/PWHR": "{^}./build{#Return}",
