@@ -19,6 +19,7 @@
   "STPH-RB": "{#Control_L(Left)}",
   "STPH-RPG": "{#Page_Up}",
   "STPH-RT": "{#Shift_L(Insert)}",
+  "STRARB": "\n{#Tab}{^}{-|}",
   "TA*B": "{#tab}{^}",
   "TA*BG": "{#Control_L(Tab)}",
   "TA*BT": "{#Alt(tab tab)}",
