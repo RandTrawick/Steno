@@ -169,6 +169,7 @@
     "PWARB/PWHEULD/KPOEPBT": "{^}bash buildComponent.bash{#Return}",
     "PWARB/PWHR": "{^}./build{#Return}",
     "PWARB/PWHR/KPOEPBT": "{^}bash buildComponent.bash{#Return}",
+    "PWARB/WAFP": "{^}b./watch{#Return}",
     "PWARB/WAFP/KPOEPBT": "{^}bash watchComponent.bash{#Return}",
     "PWARB/WAFP/SHREPB": "{^}bash watchSeleniumTests.bash{#Return}",
     "PWARB/WAFP/SKWREFT": "{^}bash watchJest.bash{#Return}",
