@@ -25,6 +25,8 @@
   "KWR-P/TREU": "{^}try:\n\nexcept Exception as e:\n    raise RuntimeError(f'An error occurred while... : \\{str(e)\\}{#Up Up Tab}",
   "KWR-P/WRAOEUT/TPAOEUL": "{^}with open('yourfile.txt', 'w', encoding='utf-8') as file:\nfile.write(text_to_write){#Left Left Left Left}",
   "SPAO*EU/TKER": "Spyder",
+  "SPAO*EURD": "Spyder",
+  "SPEU/TKER": "Spyder",
   "SPEU/TKER": "Spyder",
   "TEUPB/TER": "tkinter",
   "TPH*UPL/KWR-P": "numpy",
