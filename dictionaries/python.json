@@ -13,6 +13,7 @@
   "KWR-P/SHO": "{^}# it should",
   "KWR-P/STR": "{^}{>}str(){#Left}",
   "KWR-P/STREUPBG": "{^}{>}str(){#Left}",
+  "KWR-P/STKRUFP": "{>}variableOne = result[\"variableOne\"]{#Super_L(Left)}{#Right}",  
   "KWR-P/TAOEUP": "{^}{>}type(){#Left}",
   "KWR-P/TERPB": "{^}{>}True if thing else False{#Left Left Left Left Left Left Left Left Left Left Left Left}{^}{>}",
   "KWR-P/TKEF": "{^}{>}def ():{#Left Left Left}{^}{>}",
