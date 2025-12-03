@@ -11,6 +11,7 @@
   "KWR-P/SEUS": "sys",
   "KWR-P/SKREUB": "{^}def test_newy(self):\n{#Tab}\"\"\"Test for newy\"\"\"\n\n# Call newy\ninput_params = ''\nnewy(input_params){#Up Up Up Up Up}{#Left Left Left Left Left Left Left}{#Shift_L(Left Left Left Left)}",
   "KWR-P/SHO": "{^}# it should",
+  "KWR-P/SREFPB": "venv",
   "KWR-P/STR": "{^}{>}str(){#Left}",
   "KWR-P/STREUPBG": "{^}{>}str(){#Left}",
   "KWR-P/STKRUFP": "{>}variableOne = result[\"variableOne\"]{#Super_L(Left)}{#Right}",  
@@ -28,6 +29,7 @@
   "SPAO*EU/TKER": "Spyder",
   "SPAO*EURD": "Spyder",
   "SPEU/TKER": "Spyder",
+  "SREFPB": "venv",
   "TEUPB/TER": "tkinter",
   "TPH*UPL/KWR-P": "numpy",
   "TPH*UPL/PAOEU": "numpy"
