@@ -190,6 +190,7 @@
     "PWARBT": "{^}bash watchComponent.bash{#Return}",
     "PWR*": "\\{\\}{#Left}",
     "PWR*BGTS": "[]{#Left}",
+    "PWRAEUPBZ": "brainz",
     "PWRAOEFGS/S": "abbreviations",
     "PWROURS/TPEU": "browserify",
     "R*EBG": "req",
