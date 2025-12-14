@@ -827,6 +827,7 @@
   "SKP/THA": "and that",
   "SKPABGT": "exact",
   "SKPABLT": "exactly",
+  "SKPABLGT": "exactly",
   "SKPAEUBL": "escapable",
   "SKPAEUL": "exhale",
   "SKPAEUP": "escape",
