@@ -26,6 +26,8 @@
   "TKPWEUT/KR*R": "{^}{>}git push origin HEAD:refs/for/$(git rev-parse --abbrev-ref HEAD)",
   "TKPWEUT/KW": "{^}{>}git request-pull develop origin ",
   "TKPWEUT/OURS": "{^}{>}git checkout --ours",
+  "TKPWEUT/PHERG/A/PWORT": "{^}{>}git merge --abort",
+  "TKPWEUT/PHERG/PWORT": "{^}{>}git merge --abort",
   "TKPWEUT/PHERG/OURS": "{^}{>}git merge --no-ff -X ours ",
   "TKPWEUT/PHERG/THAERS": "{^}{>}git merge --no-ff -X theirs ",
   "TKPWEUT/PHERG/THAEURS": "{^}{>}git merge --no-ff -X theirs ",
