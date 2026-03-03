@@ -250,7 +250,7 @@
     "SO/TPHAR/KAOUB": "SonarQube",
     "SOE/TPHAR/KAOUB": "SonarQube",
     "SOFPLT/AOES": "some of these",
-    "SOFPLT/*EPL": "some of them",
+    "SOFPLT/EPL": "some of them",
     "SORBLT": "sortable",
     "SPHAEGS": "segmentation",
     "SPHAPBT/EUBG/HREU": "semantically",
