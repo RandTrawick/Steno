@@ -1,7 +1,11 @@
-# My Plover Steno dictionaries
-
 <div align="center" class="icon-parent">
-<img src="https://raw.githubusercontent.com/RandTrawick/Steno/64c3139f1064bf873d47f564138d1b95040514e9/assets/plover-icon.svg" alt="plover steno icon" width="150"/>
+
+# Steno
+
+<img src="https://raw.githubusercontent.com/RandTrawick/Steno/64c3139f1064bf873d47f564138d1b95040514e9/assets/plover-icon.svg" alt="plover steno icon" width="150"/><br>
+
+
+My steno dictionaries and a bit about the why and how of Plover steno
 
 ## My Plover Steno dictionaries
 
