@@ -26,6 +26,7 @@
   "SKWR*S/-LD": "JSON-LD",
   "SKWR*S/A*EUR": "=[",
   "SKWR*S/A/RAEU": "=[",
+  "SKWR*S/A/RAEU/TKPWARD": "{^}if (!Array.isArray(myArray) || !myArray.length) return [];{#Super_L(Left) Right Right Right Right Right Right Right Right Right Right Right Right Right Right Right Right Right Right Right Right Right Right}",  
   "SKWR*S/A/WAEUT": "{^}{>}const awaitData = async () => \\{\nconst fetchedData = await axios.get(URL);{#Super_L(Left) Right Right Right Right Right Right Right}",
   "SKWR*S/AD": "{^}.add();{#Left Left}",
   "SKWR*S/AD/KHRAS": "{^}.addddClass(){#Left}",
