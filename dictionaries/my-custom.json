@@ -337,6 +337,7 @@
     "TKE/TA*EFT": "deactivate",
     "TKE/TAEF/A*T": "deactivate",
     "TKE/TKAOUP": "dedupe",
+    "TKE/TKAOUPD": "deduped",
     "TKO*RBG": "docker",
     "TKO*UPLTS": "{^}{>}_documents",
     "TKOBGS/SKWREPB": "doxygen",
