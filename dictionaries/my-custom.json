@@ -169,6 +169,7 @@
     "PHULT/TEPB/APB/SEU": "multi-tenancy",
     "PHULT/TEPB/SEU": "multi-tenancy",
     "PO*BG": "proof of concept",
+    "PO*BG/PO*BG": "poc",
     "PO*UR/SHEL": "powershell",
     "PORT/TPEURLT": "portafilter",
     "PRAPL/HREU": "programmatically",
