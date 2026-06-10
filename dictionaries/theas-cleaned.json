@@ -1147,6 +1147,7 @@
   "STPH-FPLTD": "{:}{-|}",
   "STPH-FPT": "{^:}",
   "STPH-PLT": "{^}:",
+  "STPHA*EU": "is in a",
   "STPHA*EUBG": "{MODE:SNAKE}",
   "STPHAOEURD": "Schneider",
   "STPHEFT": "{#Return Return} {^} >> {-|}",
