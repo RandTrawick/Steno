@@ -7,6 +7,8 @@
   "AOEFP/A*F": "eachAfter",
   "AOEFP/PW*FR": "eachBefore",
   "HR*EUPBG/SO*PBL": "linkHorizontal",
+  "KOR/RO/PHR*ET": "choropleth",
+  "KOR/ROE/PHR*ET": "choropleth",
   "KR*UPL/S*UPL": "cumsum",
   "KR*UPL/SUPL": "cumsum",
   "KWA*PBT/AOEUZ": "quantize",
