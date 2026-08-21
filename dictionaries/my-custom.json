@@ -146,6 +146,7 @@
     "PAEUPBLG/TPH-GS": "pagination",
     "PAEUPBLGT": "page layout",
     "PAEUPBLT": "page layout",
+    "PARS/*R": "parser",
     "PEU/KARD": "Picard",
     "PH-BG/TKEUR": "{^}{>}mkdir",
     "PHA*EUBG/TKEUR": "{^}{>}mkdir",
