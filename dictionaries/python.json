@@ -16,7 +16,7 @@
   "KWR-P/STR": "{^}{>}str(){#Left}",
   "KWR-P/STREUPBG": "{^}{>}str(){#Left}",
   "KWR-P/STKRUFP": "{>}variableOne = result[\"variableOne\"]{#Super_L(Left)}{#Right}",  
-  "KWR-P/TAOEUP": "{^}{>}type(){#Left}",
+  "KWR-P/TAOEUP": "{^}{>}isinstance(value, str){#Left Left Left Left Left Left Left}",
   "KWR-P/TERPB": "{^}{>}True if thing else False{#Left Left Left Left Left Left Left Left Left Left Left Left}{^}{>}",
   "KWR-P/TKEF": "{^}{>}def ():{#Left Left Left}{^}{>}",
   "KWR-P/TKOBG": "{^}{>}\"\"\".\"\"\"{#Left Left Left Left}{^}{-|}",
