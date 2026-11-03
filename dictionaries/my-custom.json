@@ -383,7 +383,7 @@
     "TOUFP/STPHAURL": "{^}{>}echo '#!/bin/bash' > installer && sudo chmod 755 installer {#Return}",
     "TOUFP/TEFRT": "{^}{>}echo '#!/bin/bash' > tester && sudo chmod 755 tester {#Return}",
     "TOUFP/WAFRP": "{^}{>}echo '#!/bin/bash' > watcher && sudo chmod 755 watcher {#Return}",
-    "TP*FP": "()",
+    "TP*FP": "(){#Left}{^}",
     "TP*UBG": "fuck",
     "TP*UPBT": "if you want to",
     "TP*UPT": "if you want to",
